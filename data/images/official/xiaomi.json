@@ -38,5 +38,17 @@
   "xiaomi-redmi-note-14-4g": {
     "url": "https://i02.appmifile.com/435_operatorx_operatorx_opx/03/03/2025/0c97b47c46fd8daf8eb3995840a2a0af.png",
     "page": "https://www.mi.com/global/product/redmi-note-14/"
+  },
+  "xiaomi-17-pro-max": {
+    "url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202509222137_0f5648ca22c47fcd041c4026f11a927f.png",
+    "page": "https://www.mi.com/shop/buy?product_id=1230804977"
+  },
+  "xiaomi-18-pro": {
+    "url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-upload-outer/987F0DAD0109AB0C2B949FBCE65B6384_1789975498004.png",
+    "page": "https://www.mi.com/shop/buy?product_id=1230809259"
+  },
+  "xiaomi-18-pro-max": {
+    "url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-upload-outer/987F0DAD0109AB0C2B949FBCE65B6384_1789975206244.png",
+    "page": "https://www.mi.com/shop/buy?product_id=1230809266"
   }
 }

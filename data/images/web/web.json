@@ -14,17 +14,5 @@
   "xiaomi-poco-f9-ultra": {
     "url": "https://m.media-amazon.com/images/I/71ajhTKrVEL._AC_SL1500_.jpg",
     "page": "https://www.amazon.it/dp/B0H6XR2DZN"
-  },
-  "xiaomi-18-pro": {
-    "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-18-pro.jpg",
-    "page": "https://www.gsmarena.com/"
-  },
-  "xiaomi-18-pro-max": {
-    "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-18-pro-max.jpg",
-    "page": "https://www.gsmarena.com/"
-  },
-  "xiaomi-17-pro-max": {
-    "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-17-pro-max.jpg",
-    "page": "https://www.gsmarena.com/"
   }
 }

@@ -1,0 +1,21 @@
+{
+  "motorola-edge-60-pro": { "amount": 599.99, "currency": "GBP", "variant": "12GB/512GB", "market": "UK", "source": "https://www.phonearena.com/motorola-edge-60-release-date-price-features-news" },
+  "honor-400-pro": { "amount": 799, "currency": "EUR", "variant": "12GB/512GB", "market": "Europe", "source": "https://www.notebookcheck.net/Honor-400-Pro-launches-with-Snapdragon-8-Gen-3-200MP-triple-cameras-and-6-years-of-updates.1022298.0.html" },
+  "honor-magic-v5": { "amount": 1999, "currency": "EUR", "variant": "16GB/512GB", "market": "Europe", "source": "https://www.gsmarena.com/honor_magic_v5_officially_starts_global_rollout-news-69239.php" },
+  "honor-magic8-pro": { "amount": 5699, "currency": "CNY", "variant": "12GB/256GB", "market": "China", "source": "https://www.gsmarena.com/honor_magic8_series_goes_on_open_sale_in_china-news-70018.php" },
+  "huawei-pura-80-ultra": { "amount": 1499, "currency": "EUR", "variant": "16GB/512GB", "market": "Europe (global launch)", "source": "https://www.fonearena.com/blog/458707/huawei-pura-80-ultra-pura-80-pro-pura-80-matepad-11-5-price-global.html" },
+  "huawei-mate-80-pro": { "amount": 5999, "currency": "CNY", "variant": "12GB/256GB", "market": "China", "source": "https://www.gizmochina.com/2025/11/25/huawei-mate-80-mate-80-pro-launch-specs-price-harmonyos-6/" },
+  "oneplus-nord-5": { "amount": 449, "currency": "EUR", "variant": "8GB/256GB", "market": "Europe", "source": "https://www.gsmchoice.com/en/news/8247/" },
+  "oppo-find-x9": { "amount": 999, "currency": "EUR", "variant": "12GB/512GB", "market": "Europe", "source": "https://www.gizbot.com/mobile/news/oppo-find-x9-find-x9-pro-launched-globally-check-price-specifications-availability-india-120185.html" },
+  "oppo-find-x9-pro": { "amount": 1299, "currency": "EUR", "variant": "16GB/512GB", "market": "Europe", "source": "https://www.gizbot.com/mobile/news/oppo-find-x9-find-x9-pro-launched-globally-check-price-specifications-availability-india-120185.html" },
+  "oppo-reno-16-pro-5g": { "amount": 1099, "currency": "EUR", "variant": "12GB/512GB", "market": "Europe", "source": "https://www.gsmchoice.com/en/news/8615/" },
+  "xiaomi-18-pro": { "amount": 5999, "currency": "CNY", "variant": "12GB/256GB", "market": "China", "source": "https://tech-ish.com/2026/09/23/xiaomi-18-pro-and-18-pro-max-go-live-officially/" },
+  "oneplus-16": { "amount": 5999, "currency": "CNY", "variant": "12GB/256GB", "market": "China", "source": "https://www.smartprix.com/bytes/oneplus-16-launched-in-china-with-snapdragon-8-elite-extreme-gen-6-185hz-display-and-9000mah-battery/" },
+  "vivo-x500-pro": { "amount": 6499, "currency": "CNY", "variant": "12GB/256GB", "market": "China", "source": "https://telecomtalk.info/vivo-x500-pro-launched-price-specifications/1012030/" },
+  "oppo-find-x10-pro-max": { "amount": 6799, "currency": "CNY", "variant": "12GB/256GB", "market": "China", "source": "https://www.gizchina.com/oppo-phones-2/oppo-find-x10-pro-max-officially-unveiled-how-much-does-it-cost" },
+  "honor-magic9-pro-max": { "amount": 6499, "currency": "CNY", "variant": "12GB/256GB", "market": "China", "source": "https://www.gadgetpilipinas.net/2026/09/honor-magic9-pro-max-china-launch/" },
+  "vivo-x500": { "amount": 5499, "currency": "CNY", "variant": "12GB/256GB", "market": "China", "source": "https://true-tech.net/vivo-x500-series-launched-in-china/" },
+  "realme-gt-8-pro": { "amount": 3999, "currency": "CNY", "variant": "12GB/256GB", "market": "China", "source": "https://smartprix.com/bytes/realme-gt-8-pro-debuts-in-china-with-realme-gt-8-check-details-price-here" },
+  "xiaomi-18-pro-max": { "amount": 6999, "currency": "CNY", "variant": "12GB/256GB", "market": "China", "source": "https://tech-ish.com/2026/09/23/xiaomi-18-pro-and-18-pro-max-go-live-officially/" },
+  "xiaomi-17-pro-max": { "amount": 5999, "currency": "CNY", "variant": "12GB/512GB", "market": "China", "source": "https://www.gizmochina.com/2025/09/25/xiaomi-17-pro-max-launched-snapdragon-8-elite-gen-5-massive-7500-mah-battery-secondary-display-and-more/" }
+}

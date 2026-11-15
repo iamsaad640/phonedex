@@ -1,0 +1,62 @@
+{
+  "vivo-x500": {
+    "url": "https://asia-exstatic-vivofs.vivo.com/PSee2l50xoirPK7y/1793593379772/95687c16460a350d232237b4febbdac6.png",
+    "page": "https://www.vivo.com/my/products/x500"
+  },
+  "vivo-x500-pro": {
+    "url": "https://asia-exstatic-vivofs.vivo.com/PSee2l50xoirPK7y/1793593334966/8127885696b49c959cf00fc9db4d708a.png",
+    "page": "https://www.vivo.com/my/products/x500-pro"
+  },
+  "vivo-x300-pro": {
+    "url": "https://asia-exstatic-vivofs.vivo.com/PSee2l50xoirPK7y/1764227620907/1bac1884e3932e853e37b166a19837c1.png",
+    "page": "https://www.vivo.com/ph/products/x300-pro"
+  },
+  "vivo-x300-fe": {
+    "url": "https://asia-exstatic-vivofs.vivo.com/PSee2l50xoirPK7y/1781602753087/cbf9a01ca67217af5995e9b230bf4bf5.png",
+    "page": "https://www.vivo.com/my/products/x300-fe"
+  },
+  "vivo-v70": {
+    "url": "https://asia-exstatic-vivofs.vivo.com/PSee2l50xoirPK7y/1772680914919/d4792d2cdfa2b6a5b03443f873b65b1a.png",
+    "page": "https://www.vivo.com/my/products/v70"
+  },
+  "vivo-v80": {
+    "url": "https://asia-exstatic-vivofs.vivo.com/PSee2l50xoirPK7y/1792749294112/064313a9cdc389ef8e0f10439ba2172f.png",
+    "page": "https://www.vivo.com/ph/products/v80"
+  },
+  "vivo-x200-fe": {
+    "url": "https://asia-exstatic-vivofs.vivo.com/PSee2l50xoirPK7y/1751888413185/6aa11c551a6348862fba351034fb856c.png",
+    "page": "https://www.vivo.com/br/products/x200-fe"
+  },
+  "vivo-x-fold5": {
+    "url": "https://asia-exstatic-vivofs.vivo.com/PSee2l50xoirPK7y/product/1754043692754/zip/img/wap/vivo-x-fold5-in-titanium-gray.png",
+    "page": "https://www.vivo.com/my/products/x-fold5"
+  },
+  "honor-magic9-pro-max": {
+    "url": "https://www.honor.com/content/dam/honor/common/product-list/product-series/honor-magic9-pro-max/honor-magic9-pro-max-id-green-back.png",
+    "page": "https://www.honor.com/uk/phones/honor-magic9-series/"
+  },
+  "honor-magic8-pro": {
+    "url": "https://www.honor.com/content/dam/honor/common/product-list/product-series/honor-magic8-pro/magic8-pro-id-black-back.png",
+    "page": "https://www.honor.com/global/phones/honor-magic8-pro/"
+  },
+  "honor-x9d": {
+    "url": "https://www.honor.com/content/dam/honor/common/product-list/product-series/honor-x9d/honor-x9d-black-back.png",
+    "page": "https://www.honor.com/pk/phones/honor-x9d/"
+  },
+  "honor-magic-v5": {
+    "url": "https://www.honor.com/content/dam/honor/common/product-list/product-series/honor-magic-v5/honor-magic-v5-id-black.png",
+    "page": "https://www.honor.com/global/phones/honor-magic-v5/"
+  },
+  "honor-400-pro": {
+    "url": "https://www.honor.com/content/dam/honor/common/product-list/product-series/honor-400-pro/honor-400-pro-id-black-back.png",
+    "page": "https://www.honor.com/global/phones/honor-400-pro/"
+  },
+  "huawei-mate-80-pro": {
+    "url": "https://consumer.huawei.com/dam/content/dam/huawei-cbg-site/common/mkt/pdp/phones/mate80-pro/list-black.png",
+    "page": "https://consumer.huawei.com/en/phones/mate80-pro/"
+  },
+  "huawei-pura-80-ultra": {
+    "url": "https://consumer.huawei.com/dam/content/dam/huawei-cbg-site/common/mkt/pdp/phones/pura80-ultra/list-gold.png",
+    "page": "https://consumer.huawei.com/en/phones/pura80-ultra/"
+  }
+}

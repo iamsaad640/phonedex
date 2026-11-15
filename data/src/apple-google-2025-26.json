@@ -1,0 +1,296 @@
+[
+  {
+    "id": "apple-iphone-16e",
+    "brand": "Apple",
+    "name": "iPhone 16e",
+    "announced": "2025-02-19",
+    "status": "Available",
+    "priceUSD": 599,
+    "pricePKR": 254999,
+    "key": {
+      "displayIn": 6.1, "refreshHz": 60, "chip": "A18", "ramGB": 8, "storageMinGB": 128,
+      "mainCamMP": 48, "batteryMah": 4005, "chargingW": 20, "weightG": 167, "os": "iOS 18"
+    },
+    "specs": {
+      "Display": { "Type": "Super Retina XDR OLED", "Size": "6.1 inches", "Resolution": "1170 x 2532 pixels (460 ppi)", "Refresh rate": "60Hz", "Brightness": "800 nits (typical), 1200 nits (HDR peak)", "Protection": "Ceramic Shield" },
+      "Platform": { "OS": "iOS 18", "Chipset": "Apple A18 (3 nm)", "CPU": "Hexa-core", "GPU": "Apple GPU (4-core)" },
+      "Memory": { "RAM": "8GB", "Storage": "128GB, 256GB, 512GB", "Card slot": "No" },
+      "Main camera": { "Setup": "Single", "Main": "48 MP Fusion, f/1.6, with 2x optical-quality telephoto (crop)", "Video": "4K@24/25/30/60fps, Dolby Vision HDR" },
+      "Selfie camera": { "Camera": "12 MP, f/1.9, autofocus", "Video": "4K@24/25/30/60fps, Dolby Vision HDR" },
+      "Battery": { "Capacity": "4005 mAh (15.55 Wh, regulatory filing)", "Wired": "Fast charge, up to 50% in 30 minutes with a 20W adapter", "Wireless": "Qi, up to 7.5W (no MagSafe)" },
+      "Body": { "Dimensions": "146.7 x 71.5 x 7.8 mm", "Weight": "167 g", "Build": "Glass front (Ceramic Shield), glass back, aluminium frame", "IP rating": "IP68 (up to 6m for 30 min)", "SIM": "Nano-SIM + eSIM (eSIM only in the US)" },
+      "Connectivity": { "Network": "5G (sub-6 only, no mmWave), Apple C1 modem", "Wi-Fi": "Wi-Fi 6", "Bluetooth": "5.3", "NFC": "Yes", "USB": "USB Type-C 2.0" },
+      "Misc": { "Colors": "Black, White", "Sensors": "Face ID, accelerometer, gyro, compass, barometer", "Market": "RAM and battery capacity are not published by Apple; figures are from teardown and regulatory-filing data. Replaced by the iPhone 17e in March 2026." }
+    },
+    "sources": [
+      "https://www.apple.com/newsroom/2025/02/apple-debuts-iphone-16e-a-powerful-new-member-of-the-iphone-16-family/",
+      "https://en.wikipedia.org/wiki/IPhone_16e",
+      "https://priceoye.pk/mobiles/apple/apple-iphone-16e"
+    ],
+    "verified": "spec-database"
+  },
+  {
+    "id": "apple-iphone-17-pro",
+    "brand": "Apple",
+    "name": "iPhone 17 Pro",
+    "announced": "2025-09-09",
+    "status": "Available",
+    "priceUSD": 1099,
+    "pricePKR": 457699,
+    "key": {
+      "displayIn": 6.3, "refreshHz": 120, "chip": "A19 Pro", "ramGB": 12, "storageMinGB": 256,
+      "mainCamMP": 48, "batteryMah": 3988, "chargingW": 40, "weightG": 206, "os": "iOS 26"
+    },
+    "specs": {
+      "Display": { "Type": "LTPO Super Retina XDR OLED, ProMotion, Always-On", "Size": "6.3 inches", "Resolution": "1206 x 2622 pixels (460 ppi)", "Refresh rate": "1-120Hz", "Brightness": "1000 nits (typical), 1600 nits (HDR peak), 3000 nits (outdoor peak)", "Protection": "Ceramic Shield 2 (front), Ceramic Shield (back)" },
+      "Platform": { "OS": "iOS 26", "Chipset": "Apple A19 Pro (3 nm)", "CPU": "Hexa-core", "GPU": "Apple GPU (6-core)" },
+      "Memory": { "RAM": "12GB", "Storage": "256GB, 512GB, 1TB", "Card slot": "No" },
+      "Main camera": { "Setup": "Triple", "Main": "48 MP, f/1.78, sensor-shift OIS", "Ultrawide": "48 MP, f/2.2", "Telephoto": "48 MP, f/2.8, 4x periscope (100mm)", "Video": "4K@120fps Dolby Vision, ProRes" },
+      "Selfie camera": { "Camera": "18 MP Center Stage, f/1.9", "Video": "4K@60fps" },
+      "Battery": { "Capacity": "3988 mAh (physical-SIM models; 4252 mAh eSIM-only)", "Wired": "Up to 50% in 20 minutes with a 40W or higher adapter", "Wireless": "Up to 25W MagSafe / Qi2" },
+      "Body": { "Dimensions": "150.0 x 71.9 x 8.75 mm", "Weight": "206 g", "Build": "Ceramic Shield glass front, aluminium unibody with vapor chamber", "IP rating": "IP68 (up to 6m for 30 min)", "SIM": "Nano-SIM + eSIM (eSIM only in the US and some markets)" },
+      "Connectivity": { "Network": "5G", "Wi-Fi": "Wi-Fi 7", "Bluetooth": "6.0", "NFC": "Yes", "USB": "USB Type-C 3 (10Gbps)" },
+      "Misc": { "Colors": "Silver, Cosmic Orange, Deep Blue", "Sensors": "Face ID, LiDAR, accelerometer, gyro, compass, barometer", "Market": "RAM and battery capacity are not published by Apple; figures are from teardown and regulatory-filing data." }
+    },
+    "sources": [
+      "https://en.wikipedia.org/wiki/IPhone_17_Pro",
+      "https://www.gsmarena.com/apple_iphone_17_pro_max-13964.php",
+      "https://priceoye.pk/mobiles/apple/apple-iphone-17-pro"
+    ],
+    "verified": "spec-database"
+  },
+  {
+    "id": "apple-iphone-17-pro-max",
+    "brand": "Apple",
+    "name": "iPhone 17 Pro Max",
+    "announced": "2025-09-09",
+    "status": "Available",
+    "priceUSD": 1199,
+    "pricePKR": 576999,
+    "key": {
+      "displayIn": 6.9, "refreshHz": 120, "chip": "A19 Pro", "ramGB": 12, "storageMinGB": 256,
+      "mainCamMP": 48, "batteryMah": 4823, "chargingW": 40, "weightG": 233, "os": "iOS 26"
+    },
+    "specs": {
+      "Display": { "Type": "LTPO Super Retina XDR OLED, ProMotion, Always-On", "Size": "6.9 inches", "Resolution": "1320 x 2868 pixels (460 ppi)", "Refresh rate": "1-120Hz", "Brightness": "1000 nits (typical), 1600 nits (HDR peak), 3000 nits (outdoor peak)", "Protection": "Ceramic Shield 2 (front), Ceramic Shield (back)" },
+      "Platform": { "OS": "iOS 26", "Chipset": "Apple A19 Pro (3 nm)", "CPU": "Hexa-core", "GPU": "Apple GPU (6-core)" },
+      "Memory": { "RAM": "12GB", "Storage": "256GB, 512GB, 1TB, 2TB", "Card slot": "No" },
+      "Main camera": { "Setup": "Triple", "Main": "48 MP, f/1.78, sensor-shift OIS", "Ultrawide": "48 MP, f/2.2", "Telephoto": "48 MP, f/2.8, 4x periscope (100mm)", "Video": "4K@120fps Dolby Vision, ProRes" },
+      "Selfie camera": { "Camera": "18 MP Center Stage, f/1.9", "Video": "4K@60fps" },
+      "Battery": { "Capacity": "4823 mAh (physical-SIM models; 5088 mAh eSIM-only)", "Wired": "Up to 50% in 20 minutes with a 40W or higher adapter", "Wireless": "Up to 25W MagSafe / Qi2" },
+      "Body": { "Dimensions": "163.4 x 78.0 x 8.75 mm", "Weight": "233 g", "Build": "Ceramic Shield glass front, aluminium unibody with vapor chamber", "IP rating": "IP68 (up to 6m for 30 min)", "SIM": "Nano-SIM + eSIM (eSIM only in the US and some markets)" },
+      "Connectivity": { "Network": "5G", "Wi-Fi": "Wi-Fi 7", "Bluetooth": "6.0", "NFC": "Yes", "USB": "USB Type-C 3 (10Gbps)" },
+      "Misc": { "Colors": "Silver, Cosmic Orange, Deep Blue", "Sensors": "Face ID, LiDAR, accelerometer, gyro, compass, barometer", "Market": "RAM and battery capacity are not published by Apple; figures are from teardown and regulatory-filing data." }
+    },
+    "sources": [
+      "https://en.wikipedia.org/wiki/IPhone_17_Pro",
+      "https://www.gsmarena.com/apple_iphone_17_pro_max-13964.php",
+      "https://priceoye.pk/mobiles/apple/apple-iphone-17-pro-max"
+    ],
+    "verified": "spec-database"
+  },
+  {
+    "id": "apple-iphone-duo",
+    "brand": "Apple",
+    "name": "iPhone Duo",
+    "announced": "2026-09-09",
+    "status": "Available",
+    "priceUSD": 1999,
+    "pricePKR": null,
+    "key": {
+      "displayIn": 7.6, "refreshHz": 120, "chip": "A20 Pro", "ramGB": 12, "storageMinGB": 256,
+      "mainCamMP": 48, "batteryMah": null, "chargingW": 60, "weightG": 254, "os": "iOS 27"
+    },
+    "specs": {
+      "Display": { "Type": "Foldable OLED, ProMotion, HDR", "Size": "7.6 inches (inner), 5.4 inches (outer)", "Resolution": "2670 x 1878 pixels (inner, 430 ppi)", "Refresh rate": "Up to 120Hz", "Brightness": null, "Protection": null, "Cover display": "5.4-inch OLED, 1398 x 2034 pixels (460 ppi), up to 120Hz" },
+      "Platform": { "OS": "iOS 27", "Chipset": "Apple A20 Pro (2 nm)", "CPU": "Hexa-core", "GPU": "Apple GPU (7-core)" },
+      "Memory": { "RAM": "12GB", "Storage": "256GB, 512GB, 1TB, 2TB", "Card slot": "No" },
+      "Main camera": { "Setup": "Dual", "Main": "48 MP Fusion", "Ultrawide": "48 MP, 120-degree field of view", "Video": "4K Dolby Vision HDR" },
+      "Selfie camera": { "Camera": "12 MP Center Stage (outer display); under-display camera (inner display)", "Video": null },
+      "Battery": { "Capacity": null, "Wired": "Up to 50% in about 20 minutes with a 60W-capable adapter", "Wireless": "Up to 25W MagSafe / Qi2" },
+      "Body": { "Dimensions": "164.6 x 117.8 x 5.2 mm (open), 84.1 x 117.8 x 11.3 mm (closed)", "Weight": "254 g", "Build": null, "IP rating": "IP68", "SIM": "Dual eSIM (no physical SIM)" },
+      "Connectivity": { "Network": "5G", "Wi-Fi": "Wi-Fi 7", "Bluetooth": "6", "NFC": "Yes", "USB": "USB Type-C" },
+      "Misc": { "Colors": "Night Sky, Star White", "Sensors": "Touch ID (side button), accelerometer, gyro, compass, barometer", "Market": "Apple's first foldable iPhone, with Apple Pencil support. Pre-orders opened 16 Oct 2026, on sale from 23 Oct 2026. Apple does not publish RAM or battery capacity; RAM is from iFixit, and reported battery figures (4883 to 5800 mAh) conflict, so battery is left blank." }
+    },
+    "sources": [
+      "https://www.apple.com/iphone-duo/specs/",
+      "https://www.ifixit.com/Device/iPhone_Duo",
+      "https://www.androidheadlines.com/apple-iphone-duo-specs"
+    ],
+    "verified": "official"
+  },
+  {
+    "id": "google-pixel-9a",
+    "brand": "Google",
+    "name": "Pixel 9a",
+    "announced": "2025-03-19",
+    "status": "Available",
+    "priceUSD": 499,
+    "pricePKR": null,
+    "key": {
+      "displayIn": 6.3, "refreshHz": 120, "chip": "Tensor G4", "ramGB": 8, "storageMinGB": 128,
+      "mainCamMP": 48, "batteryMah": 5100, "chargingW": 23, "weightG": 186, "os": "Android 15"
+    },
+    "specs": {
+      "Display": { "Type": "Actua pOLED", "Size": "6.3 inches", "Resolution": "1080 x 2424 pixels (422 ppi)", "Refresh rate": "60-120Hz", "Brightness": "1800 nits (HDR), 2700 nits (peak)", "Protection": "Corning Gorilla Glass 3" },
+      "Platform": { "OS": "Android 15 (7 years of updates)", "Chipset": "Google Tensor G4 (4 nm)", "CPU": "Octa-core", "GPU": null },
+      "Memory": { "RAM": "8GB", "Storage": "128GB, 256GB", "Card slot": "No" },
+      "Main camera": { "Setup": "Dual", "Main": "48 MP, f/1.7, OIS", "Ultrawide": "13 MP, f/2.2, 120-degree", "Video": "4K@30/60fps" },
+      "Selfie camera": { "Camera": "13 MP, f/2.2", "Video": "4K@30fps" },
+      "Battery": { "Capacity": "5100 mAh", "Wired": "23W", "Wireless": "7.5W Qi" },
+      "Body": { "Dimensions": "154.7 x 73.3 x 8.9 mm", "Weight": "186 g", "Build": "Plastic back, aluminium frame", "IP rating": "IP68", "SIM": "Nano-SIM + eSIM" },
+      "Connectivity": { "Network": "5G", "Wi-Fi": "Wi-Fi 6E", "Bluetooth": "5.3", "NFC": "Yes", "USB": "USB Type-C 3.2" },
+      "Misc": { "Colors": "Obsidian, Porcelain, Iris, Peony", "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, compass, barometer", "Market": "Not officially sold in Pakistan." }
+    },
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pixel_9a",
+      "https://www.ubergizmo.com/2025/03/google-pixel-9a-unveiled/"
+    ],
+    "verified": "spec-database"
+  },
+  {
+    "id": "google-pixel-10",
+    "brand": "Google",
+    "name": "Pixel 10",
+    "announced": "2025-08-20",
+    "status": "Available",
+    "priceUSD": 799,
+    "pricePKR": null,
+    "key": {
+      "displayIn": 6.3, "refreshHz": 120, "chip": "Tensor G5", "ramGB": 12, "storageMinGB": 128,
+      "mainCamMP": 48, "batteryMah": 4970, "chargingW": 29, "weightG": 204, "os": "Android 16"
+    },
+    "specs": {
+      "Display": { "Type": "Actua OLED", "Size": "6.3 inches", "Resolution": "1080 x 2424 pixels (422 ppi)", "Refresh rate": "60-120Hz", "Brightness": "3000 nits (peak)", "Protection": "Corning Gorilla Glass Victus 2" },
+      "Platform": { "OS": "Android 16 (7 years of updates)", "Chipset": "Google Tensor G5 (3 nm)", "CPU": "Octa-core (1x3.78GHz Cortex-X4 & 5x3.05GHz Cortex-A725 & 2x2.25GHz Cortex-A520)", "GPU": "PowerVR DXT-48-1536" },
+      "Memory": { "RAM": "12GB", "Storage": "128GB, 256GB", "Card slot": "No" },
+      "Main camera": { "Setup": "Triple", "Main": "48 MP, f/1.7, OIS", "Ultrawide": "13 MP, f/2.2", "Telephoto": "10.8 MP, f/3.1, 5x optical", "Video": "4K@60fps" },
+      "Selfie camera": { "Camera": "10.5 MP, f/2.2", "Video": "4K@60fps" },
+      "Battery": { "Capacity": "4970 mAh", "Wired": "29W", "Wireless": "15W Qi2 (Pixelsnap magnets)" },
+      "Body": { "Dimensions": "152.8 x 72.0 x 8.6 mm", "Weight": "204 g", "Build": "Glass front and back, aluminium frame", "IP rating": "IP68", "SIM": "Nano-SIM + eSIM (dual eSIM in the US)" },
+      "Connectivity": { "Network": "5G", "Wi-Fi": "Wi-Fi 6E", "Bluetooth": "6.0", "NFC": "Yes", "USB": "USB Type-C 3.2" },
+      "Misc": { "Colors": "Obsidian, Frost, Indigo, Lemongrass", "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, compass, barometer", "Market": "Not officially sold in Pakistan." }
+    },
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pixel_10",
+      "https://www.tomsguide.com/phones/google-pixel-phones/google-pixel-10-announced-and-its-the-biggest-upgrade-of-the-year"
+    ],
+    "verified": "spec-database"
+  },
+  {
+    "id": "google-pixel-10-pro",
+    "brand": "Google",
+    "name": "Pixel 10 Pro",
+    "announced": "2025-08-20",
+    "status": "Available",
+    "priceUSD": 999,
+    "pricePKR": null,
+    "key": {
+      "displayIn": 6.3, "refreshHz": 120, "chip": "Tensor G5", "ramGB": 16, "storageMinGB": 128,
+      "mainCamMP": 50, "batteryMah": 4870, "chargingW": 30, "weightG": 207, "os": "Android 16"
+    },
+    "specs": {
+      "Display": { "Type": "Super Actua LTPO OLED", "Size": "6.3 inches", "Resolution": "1280 x 2856 pixels (495 ppi)", "Refresh rate": "1-120Hz", "Brightness": "2200 nits (HDR), 3300 nits (peak)", "Protection": "Corning Gorilla Glass Victus 2" },
+      "Platform": { "OS": "Android 16 (7 years of updates)", "Chipset": "Google Tensor G5 (3 nm)", "CPU": "Octa-core (1x3.78GHz Cortex-X4 & 5x3.05GHz Cortex-A725 & 2x2.25GHz Cortex-A520)", "GPU": "PowerVR DXT-48-1536" },
+      "Memory": { "RAM": "16GB", "Storage": "128GB, 256GB, 512GB, 1TB", "Card slot": "No" },
+      "Main camera": { "Setup": "Triple", "Main": "50 MP, f/1.68, OIS", "Ultrawide": "48 MP, f/1.7, 123-degree", "Telephoto": "48 MP, f/2.8, 5x optical", "Video": "8K@30fps, 4K@60fps" },
+      "Selfie camera": { "Camera": "42 MP, f/2.2", "Video": "4K@60fps" },
+      "Battery": { "Capacity": "4870 mAh", "Wired": "30W", "Wireless": "15W Qi2 (Pixelsnap magnets)" },
+      "Body": { "Dimensions": "152.8 x 72.0 x 8.6 mm", "Weight": "207 g", "Build": "Glass front and back, aluminium frame", "IP rating": "IP68", "SIM": "Nano-SIM + eSIM (dual eSIM in the US)" },
+      "Connectivity": { "Network": "5G", "Wi-Fi": "Wi-Fi 7", "Bluetooth": "6.0", "NFC": "Yes", "USB": "USB Type-C 3.2" },
+      "Misc": { "Colors": "Obsidian, Porcelain, Moonstone, Jade", "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, compass, barometer", "Market": "Not officially sold in Pakistan." }
+    },
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pixel_10_Pro",
+      "https://deviceguides.vodafone.co.uk/google/pixel-10-pro-android-16/specifications"
+    ],
+    "verified": "spec-database"
+  },
+  {
+    "id": "google-pixel-10-pro-xl",
+    "brand": "Google",
+    "name": "Pixel 10 Pro XL",
+    "announced": "2025-08-20",
+    "status": "Available",
+    "priceUSD": 1199,
+    "pricePKR": null,
+    "key": {
+      "displayIn": 6.8, "refreshHz": 120, "chip": "Tensor G5", "ramGB": 16, "storageMinGB": 256,
+      "mainCamMP": 50, "batteryMah": 5200, "chargingW": 45, "weightG": 232, "os": "Android 16"
+    },
+    "specs": {
+      "Display": { "Type": "Super Actua LTPO OLED", "Size": "6.8 inches", "Resolution": "1344 x 2992 pixels (486 ppi)", "Refresh rate": "1-120Hz", "Brightness": "2200 nits (HDR), 3300 nits (peak)", "Protection": "Corning Gorilla Glass Victus 2" },
+      "Platform": { "OS": "Android 16 (7 years of updates)", "Chipset": "Google Tensor G5 (3 nm)", "CPU": "Octa-core (1x3.78GHz Cortex-X4 & 5x3.05GHz Cortex-A725 & 2x2.25GHz Cortex-A520)", "GPU": "PowerVR DXT-48-1536" },
+      "Memory": { "RAM": "16GB", "Storage": "256GB, 512GB, 1TB", "Card slot": "No" },
+      "Main camera": { "Setup": "Triple", "Main": "50 MP, f/1.68, OIS", "Ultrawide": "48 MP, f/1.7, 123-degree", "Telephoto": "48 MP, f/2.8, 5x optical", "Video": "8K@30fps, 4K@60fps" },
+      "Selfie camera": { "Camera": "42 MP, f/2.2", "Video": "4K@60fps" },
+      "Battery": { "Capacity": "5200 mAh", "Wired": "45W", "Wireless": "25W Qi2.2 (Pixelsnap magnets)" },
+      "Body": { "Dimensions": "162.8 x 76.6 x 8.5 mm", "Weight": "232 g", "Build": "Glass front and back, aluminium frame", "IP rating": "IP68", "SIM": "Nano-SIM + eSIM (dual eSIM in the US)" },
+      "Connectivity": { "Network": "5G", "Wi-Fi": "Wi-Fi 7", "Bluetooth": "6.0", "NFC": "Yes", "USB": "USB Type-C 3.2" },
+      "Misc": { "Colors": "Obsidian, Porcelain, Moonstone, Jade", "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, compass, barometer", "Market": "Not officially sold in Pakistan." }
+    },
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pixel_10_Pro",
+      "https://www.androidheadlines.com/2025/08/google-pixel-10-pro-xl-price.html"
+    ],
+    "verified": "spec-database"
+  },
+  {
+    "id": "google-pixel-10-pro-fold",
+    "brand": "Google",
+    "name": "Pixel 10 Pro Fold",
+    "announced": "2025-08-20",
+    "status": "Available",
+    "priceUSD": 1799,
+    "pricePKR": null,
+    "key": {
+      "displayIn": 8.0, "refreshHz": 120, "chip": "Tensor G5", "ramGB": 16, "storageMinGB": 256,
+      "mainCamMP": 48, "batteryMah": 5015, "chargingW": 30, "weightG": 258, "os": "Android 16"
+    },
+    "specs": {
+      "Display": { "Type": "Super Actua Flex OLED (inner)", "Size": "8.0 inches (inner)", "Resolution": "2076 x 2152 pixels (373 ppi)", "Refresh rate": "1-120Hz", "Brightness": "3000 nits (peak)", "Protection": "Ultra Thin Glass (inner)", "Cover display": "6.4-inch OLED, 1080 x 2364 pixels (408 ppi), 60-120Hz, 3000 nits peak, Gorilla Glass Victus 2" },
+      "Platform": { "OS": "Android 16 (7 years of updates)", "Chipset": "Google Tensor G5 (3 nm)", "CPU": "Octa-core", "GPU": null },
+      "Memory": { "RAM": "16GB", "Storage": "256GB, 512GB, 1TB", "Card slot": "No" },
+      "Main camera": { "Setup": "Triple", "Main": "48 MP, f/1.7, OIS", "Ultrawide": "10.5 MP, f/2.2, 127-degree", "Telephoto": "10.8 MP, f/3.1, 5x optical", "Video": "4K@60fps" },
+      "Selfie camera": { "Camera": "10 MP, f/2.2 (cover) and 10 MP, f/2.2 (inner)", "Video": "4K@30fps" },
+      "Battery": { "Capacity": "5015 mAh", "Wired": "30W", "Wireless": "15W Qi2 (Pixelsnap magnets)" },
+      "Body": { "Dimensions": "155.2 x 150.4 x 5.2 mm (open), 155.2 x 76.3 x 10.8 mm (closed)", "Weight": "258 g", "Build": "Gorilla Glass Victus 2 front (cover) and back, aluminium frame, multi-alloy steel hinge", "IP rating": "IP68", "SIM": "Nano-SIM + eSIM" },
+      "Connectivity": { "Network": "5G", "Wi-Fi": "Wi-Fi 7", "Bluetooth": "6.0", "NFC": "Yes", "USB": "USB Type-C 3.2" },
+      "Misc": { "Colors": "Moonstone, Jade", "Sensors": "Fingerprint (side), accelerometer, gyro, compass, barometer", "Market": "On sale from 9 Oct 2025. Not officially sold in Pakistan." }
+    },
+    "sources": [
+      "https://www.droid-life.com/?p=310580",
+      "https://m.gsmarena.com/google_pixel_10_pro_fold-14014.php"
+    ],
+    "verified": "spec-database"
+  },
+  {
+    "id": "google-pixel-11-pro-fold",
+    "brand": "Google",
+    "name": "Pixel 11 Pro Fold",
+    "announced": "2026-08-12",
+    "status": "Available",
+    "priceUSD": 1899,
+    "pricePKR": null,
+    "key": {
+      "displayIn": 8.0, "refreshHz": 120, "chip": "Tensor G6", "ramGB": 16, "storageMinGB": 256,
+      "mainCamMP": 48, "batteryMah": 4806, "chargingW": 30, "weightG": 239, "os": "Android 17"
+    },
+    "specs": {
+      "Display": { "Type": "Super Actua Flex OLED (inner)", "Size": "8.0 inches (inner)", "Resolution": "2076 x 2152 pixels (372 ppi)", "Refresh rate": "1-120Hz", "Brightness": "3600 nits (peak)", "Protection": null, "Cover display": "6.5-inch Super Actua OLED, 1080 x 2342 pixels (399 ppi), 1-120Hz, 3600 nits peak" },
+      "Platform": { "OS": "Android 17 (7 years of updates)", "Chipset": "Google Tensor G6 (2 nm)", "CPU": "Octa-core", "GPU": null },
+      "Memory": { "RAM": "16GB", "Storage": "256GB, 512GB, 1TB", "Card slot": "No" },
+      "Main camera": { "Setup": "Triple", "Main": "48 MP, f/1.7, quad PD", "Ultrawide": "10.5 MP, f/2.2, 127-degree", "Telephoto": "10.8 MP, f/3.1, 5x optical, up to 30x Super Res Zoom", "Video": null },
+      "Selfie camera": { "Camera": "10 MP, f/2.2", "Video": null },
+      "Battery": { "Capacity": "4806 mAh", "Wired": "30W", "Wireless": "25W Qi2.2" },
+      "Body": { "Dimensions": "155.2 x 150.4 x 5.0 mm (open), 155.2 x 76.0 x 10.1 mm (closed)", "Weight": "239 g", "Build": "Glass-ceramic cover glass, composite matte back, gearless hinge", "IP rating": "IP68", "SIM": "Nano-SIM + eSIM (dual eSIM in the US)" },
+      "Connectivity": { "Network": "5G", "Wi-Fi": "Wi-Fi 7", "Bluetooth": "6", "NFC": "Yes", "USB": "USB Type-C 3.2" },
+      "Misc": { "Colors": "Olive, Obsidian", "Sensors": "Fingerprint, face unlock, accelerometer, gyro, compass, barometer", "Market": "On sale from 20 Aug 2026. Some listings give 4750 mAh for the battery; 4806 mAh is the figure in the launch spec list. Not officially sold in Pakistan." }
+    },
+    "sources": [
+      "https://www.droid-life.com/2026/08/12/pixel-11-pro-fold-official-at-1899/",
+      "https://www.phonearena.com/news/pixel-11-pro-fold-is-here_id182546"
+    ],
+    "verified": "spec-database"
+  }
+]

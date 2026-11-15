@@ -1,0 +1,329 @@
+[
+  {
+    "id": "xiaomi-17-ultra",
+    "brand": "Xiaomi",
+    "name": "17 Ultra",
+    "announced": "2026-02-28",
+    "status": "Available",
+    "priceUSD": 1740,
+    "pricePKR": 459999,
+    "key": { "displayIn": 6.9, "refreshHz": 120, "chip": "Snapdragon 8 Elite Gen 5", "ramGB": 16, "storageMinGB": 512, "mainCamMP": 50, "batteryMah": 6000, "chargingW": 90, "weightG": 218.4, "os": "Android 16, HyperOS 3" },
+    "specs": {
+      "Display": { "Type": "LTPO AMOLED, 12-bit, Dolby Vision", "Size": "6.9 inches", "Resolution": "1200 x 2608 pixels (1.5K)", "Refresh rate": "120Hz", "Brightness": "3500 nits (peak)", "Protection": "Xiaomi Shield Glass 3.0" },
+      "Platform": { "OS": "Android 16, HyperOS 3", "Chipset": "Qualcomm Snapdragon 8 Elite Gen 5 (3 nm)", "CPU": "Octa-core (2x4.6 GHz + 6x3.62 GHz Oryon V3)", "GPU": "Adreno 840" },
+      "Memory": { "RAM": "16GB LPDDR5X", "Storage": "512GB / 1TB UFS 4.1", "Card slot": "No" },
+      "Main camera": { "Setup": "Triple (Leica)", "Main": "50 MP, f/1.67, 23mm, 1.0\" Light Hunter 1050L, OIS, laser AF", "Ultrawide": "50 MP, f/2.2, 14mm, 115°, 1/2.75\" Samsung JN5", "Telephoto": "200 MP periscope, f/2.39-2.96, 100mm, 1/1.4\" Samsung HPE, 4.3x optical, OIS", "Video": "8K@30fps, 4K@24/30/60/120fps, 1080p@30/60fps" },
+      "Selfie camera": { "Camera": "50 MP, f/2.2, 21mm, 1/2.87\" OmniVision OV50M", "Video": "4K@30/60fps, 1080p@30/60fps" },
+      "Battery": { "Capacity": "6000 mAh (global; China version 6800 mAh)", "Wired": "90W", "Wireless": "50W; 10W reverse wireless, 22.5W reverse wired" },
+      "Body": { "Dimensions": "162.9 x 77.6 x 8.29 mm", "Weight": "218.4 g", "Build": "Glass front (Shield Glass 3.0), silicone polymer back, aluminium frame", "IP rating": "IP66/IP68/IP69", "SIM": "Dual nano-SIM + eSIM" },
+      "Connectivity": { "Network": "5G", "Wi-Fi": "Wi-Fi 7", "Bluetooth": "6.0", "NFC": "Yes", "USB": "USB Type-C 3.2 Gen 2, DisplayPort" },
+      "Misc": { "Colors": "Black, White", "Sensors": "Ultrasonic under-display fingerprint, accelerometer, gyro, proximity, compass, barometer, IR blaster", "Market": "Global (launched at MWC 2026); China version launched earlier with a 6800 mAh battery" }
+    },
+    "sources": [
+      "https://gadgets.beebom.com/mobile/xiaomi-17-ultra?view=specs",
+      "https://techlomedia.in/?p=121263",
+      "https://www.fonearena.com/blog/?p=476455",
+      "https://priceoye.pk/mobiles/xiaomi/xiaomi-17-ultra"
+    ],
+    "verified": "spec-database"
+  },
+  {
+    "id": "xiaomi-18-pro",
+    "brand": "Xiaomi",
+    "name": "18 Pro",
+    "announced": "2026-09-23",
+    "status": "Available",
+    "priceUSD": null,
+    "pricePKR": null,
+    "key": { "displayIn": 6.4, "refreshHz": 120, "chip": "Snapdragon 8 Elite Gen 6", "ramGB": 12, "storageMinGB": 256, "mainCamMP": 200, "batteryMah": 7000, "chargingW": 100, "weightG": 203, "os": "Android 17, HyperOS 4" },
+    "specs": {
+      "Display": { "Type": "LTPO AMOLED + 2.7\" rear AMOLED display", "Size": "6.4 inches", "Resolution": "1120 x 2436 pixels (1.5K)", "Refresh rate": "120Hz", "Brightness": "4000 nits (peak)", "Protection": "Xiaomi Dragon Crystal Glass 3.0" },
+      "Platform": { "OS": "Android 17, HyperOS 4", "Chipset": "Qualcomm Snapdragon 8 Elite Gen 6 (2 nm)", "CPU": "Octa-core (up to 5.0 GHz)", "GPU": "Adreno 850" },
+      "Memory": { "RAM": "12GB / 16GB LPDDR5X", "Storage": "256GB / 512GB / 1TB UFS 4.1", "Card slot": "No" },
+      "Main camera": { "Setup": "Triple (Leica)", "Main": "200 MP, f/1.67, 23mm, 1/1.28\" Light Hunter 960, OIS", "Ultrawide": "50 MP, f/2.4, 17mm, 102°, 1/2.88\"", "Telephoto": "200 MP periscope, f/2.4, 75mm, 1/1.56\" Samsung HP5, 3.2x optical, OIS", "Video": "8K@30fps, 4K@30/60/120fps, Dolby Vision" },
+      "Selfie camera": { "Camera": "50 MP, f/2.2, 21mm, 1/2.88\" OmniVision OV50M", "Video": "4K@30/60fps" },
+      "Battery": { "Capacity": "7000 mAh (silicon-carbon)", "Wired": "100W", "Wireless": "50W; reverse wired 27W" },
+      "Body": { "Dimensions": "151.8 x 72 x 8.46 mm", "Weight": "203 g", "Build": "Glass front, aluminium frame", "IP rating": "IP68", "SIM": "Dual SIM" },
+      "Connectivity": { "Network": "5G", "Wi-Fi": "Wi-Fi 7", "Bluetooth": "6.0", "NFC": "Yes", "USB": "USB Type-C 3.2 Gen 1" },
+      "Misc": { "Colors": "Black, White, Pink, Blue; Transparent Special Edition (red)", "Sensors": "Optical under-display fingerprint, accelerometer, gyro, proximity, compass, barometer, IR blaster", "Market": "China only so far (CNY 5,999 start); global launch announced for Nov 2026" }
+    },
+    "sources": [
+      "https://tech-ish.com/2026/09/23/xiaomi-18-pro-and-18-pro-max-go-live-officially/",
+      "https://gadgets.beebom.com/mobile/xiaomi-18-pro?view=specs",
+      "https://www.techadvisor.com/article/3274194/xiaomi-18-pro-announced-for-november-global-launch.html"
+    ],
+    "verified": "spec-database"
+  },
+  {
+    "id": "xiaomi-redmi-note-15-pro-plus",
+    "brand": "Xiaomi",
+    "name": "Redmi Note 15 Pro+",
+    "announced": "2025-12-18",
+    "status": "Available",
+    "priceUSD": 579,
+    "pricePKR": 164995,
+    "key": { "displayIn": 6.83, "refreshHz": 120, "chip": "Snapdragon 7s Gen 4", "ramGB": 8, "storageMinGB": 256, "mainCamMP": 200, "batteryMah": 6500, "chargingW": 100, "weightG": 207.1, "os": "Android 15, HyperOS 2" },
+    "specs": {
+      "Display": { "Type": "Curved AMOLED, 12-bit, HDR10+, Dolby Vision", "Size": "6.83 inches", "Resolution": "1280 x 2772 pixels (1.5K)", "Refresh rate": "120Hz", "Brightness": "3200 nits (peak)", "Protection": "Corning Gorilla Glass Victus 2" },
+      "Platform": { "OS": "Android 15, HyperOS 2", "Chipset": "Qualcomm Snapdragon 7s Gen 4 (4 nm)", "CPU": "Octa-core (1x2.7 GHz + 3x2.4 GHz Cortex-A720 + 4x1.8 GHz Cortex-A520)", "GPU": "Adreno 810" },
+      "Memory": { "RAM": "8GB / 12GB", "Storage": "256GB / 512GB", "Card slot": "No" },
+      "Main camera": { "Setup": "Dual", "Main": "200 MP, f/1.7, 23mm, 1/1.4\" Samsung HPE, OIS", "Ultrawide": "8 MP, f/2.2, 15mm, 120°", "Video": "4K@30fps, 1080p@30/60fps" },
+      "Selfie camera": { "Camera": "32 MP, f/2.2", "Video": "1080p@30/60fps" },
+      "Battery": { "Capacity": "6500 mAh (silicon-carbon)", "Wired": "100W; 22.5W reverse wired", "Wireless": "No" },
+      "Body": { "Dimensions": "163.34 x 78.31 x 8.19 mm", "Weight": "207.1 g", "Build": "Glass front (Gorilla Glass Victus 2), fiberglass back, aluminium frame", "IP rating": "IP66/IP68/IP69/IP69K", "SIM": "Dual nano-SIM or nano-SIM + eSIM" },
+      "Connectivity": { "Network": "5G", "Wi-Fi": "Wi-Fi 6E", "Bluetooth": "5.4", "NFC": "Yes", "USB": "USB Type-C 2.0" },
+      "Misc": { "Colors": "Black, Glacier Blue, Mocha Brown", "Sensors": "Optical under-display fingerprint, accelerometer, gyro, proximity, compass, IR blaster", "Market": "Global version (China model from Aug 2025 has 7000 mAh / 90W)" }
+    },
+    "sources": [
+      "https://propakistani.pk/2025/12/18/redmi-note-15-pro-goes-global-with-major-hardware-changes/",
+      "https://gadgets.beebom.com/mobile/redmi-note-15-pro-plus?view=specs",
+      "https://www.notebookcheck.it/Xiaomi-Redmi-Note-15-Pro-Plus-diventa-globale-con-una-fotocamera-da-200-MP-una-grande-batteria-e-altro-ancora.1188830.0.html",
+      "https://priceoye.pk/mobiles/xiaomi/xiaomi-redmi-note-15-pro-plus"
+    ],
+    "verified": "spec-database"
+  },
+  {
+    "id": "oneplus-16",
+    "brand": "OnePlus",
+    "name": "16",
+    "announced": "2026-10-12",
+    "status": "Available",
+    "priceUSD": null,
+    "pricePKR": null,
+    "key": { "displayIn": 6.78, "refreshHz": 165, "chip": "Snapdragon 8 Elite Extreme Gen 6", "ramGB": 12, "storageMinGB": 256, "mainCamMP": 200, "batteryMah": 9000, "chargingW": 100, "weightG": 217, "os": "Android 17, ColorOS 17" },
+    "specs": {
+      "Display": { "Type": "LTPO OLED, HDR10+, Dolby Vision", "Size": "6.78 inches", "Resolution": "1272 x 2772 pixels (1.5K)", "Refresh rate": "165Hz system-wide, up to 185Hz in supported games", "Brightness": null, "Protection": "Crystal Shield glass" },
+      "Platform": { "OS": "Android 17, ColorOS 17", "Chipset": "Qualcomm Snapdragon 8 Elite Extreme Gen 6 (2 nm)", "CPU": "Octa-core (2x5.01 GHz + 3x4.03 GHz + 3x3.74 GHz)", "GPU": "Adreno 850" },
+      "Memory": { "RAM": "12GB / 16GB LPDDR5X", "Storage": "256GB / 512GB / 1TB UFS 4.1", "Card slot": "No" },
+      "Main camera": { "Setup": "Triple", "Main": "200 MP, f/1.6, 23mm, 1/1.4\", PDAF, OIS", "Ultrawide": "50 MP, f/2.0, 16mm, 116°", "Telephoto": "50 MP periscope, f/2.6, 73mm, 3x optical, OIS", "Video": "8K@30fps, 4K@30/60/120fps, Dolby Vision" },
+      "Selfie camera": { "Camera": "50 MP, f/2.0, autofocus", "Video": "4K@30/60fps" },
+      "Battery": { "Capacity": "9000 mAh", "Wired": "100W; bypass charging", "Wireless": "50W; reverse wireless" },
+      "Body": { "Dimensions": "161.42 x 76.67 x 8.45 mm (varies by color)", "Weight": "217 g (220 g black/white)", "Build": "Glass front and back, metal frame", "IP rating": "IP66/IP68/IP69/IP69K", "SIM": "Dual nano-SIM" },
+      "Connectivity": { "Network": "5G", "Wi-Fi": "Wi-Fi 7", "Bluetooth": "6.0", "NFC": "Yes", "USB": "USB Type-C 3.2 Gen 1" },
+      "Misc": { "Colors": "Starlight, Dark Forest, Martian Masterpiece", "Sensors": "Ultrasonic under-display fingerprint, accelerometer, gyro, proximity, compass, IR blaster", "Market": "China only (CNY 5,999 start); no global launch announced" }
+    },
+    "sources": [
+      "https://propakistani.pk/2026/10/13/oneplus-16-goes-overkill-with-9000mah-battery-and-snapdragon-8-elite-extreme-gen-6/",
+      "https://gadgets.beebom.com/mobile/oneplus-16?view=specs",
+      "https://www.91mobiles.com/hub/oneplus-16-launched-china-price-specifications/"
+    ],
+    "verified": "spec-database"
+  },
+  {
+    "id": "oneplus-15r",
+    "brand": "OnePlus",
+    "name": "15R",
+    "announced": "2025-12-17",
+    "status": "Available",
+    "priceUSD": 700,
+    "pricePKR": null,
+    "key": { "displayIn": 6.83, "refreshHz": 165, "chip": "Snapdragon 8 Gen 5", "ramGB": 12, "storageMinGB": 256, "mainCamMP": 50, "batteryMah": 7400, "chargingW": 80, "weightG": 213, "os": "Android 16, OxygenOS 16" },
+    "specs": {
+      "Display": { "Type": "AMOLED, 10-bit", "Size": "6.83 inches", "Resolution": "1272 x 2800 pixels (1.5K)", "Refresh rate": "165Hz", "Brightness": "1800 nits (HBM), 4500 nits (peak)", "Protection": "Corning Gorilla Glass 7i" },
+      "Platform": { "OS": "Android 16, OxygenOS 16", "Chipset": "Qualcomm Snapdragon 8 Gen 5 (3 nm)", "CPU": "Octa-core (2x4.32 GHz + 6x3.53 GHz)", "GPU": "Adreno 829" },
+      "Memory": { "RAM": "12GB / 16GB LPDDR5X", "Storage": "256GB / 512GB UFS 4.1", "Card slot": "No" },
+      "Main camera": { "Setup": "Dual", "Main": "50 MP, f/1.8, 24mm, 1/1.56\" Sony IMX906, OIS", "Ultrawide": "8 MP, f/2.2, 16mm, 112°", "Video": "4K@30/60/120fps, 1080p@240fps" },
+      "Selfie camera": { "Camera": "32 MP, f/2.0", "Video": "4K@30fps" },
+      "Battery": { "Capacity": "7400 mAh (silicon-carbon)", "Wired": "80W SUPERVOOC", "Wireless": "No" },
+      "Body": { "Dimensions": "163.4 x 77 x 8.1 mm", "Weight": "213 g", "Build": "Glass front (Gorilla Glass 7i), glass back, aluminium frame", "IP rating": "IP66/IP68/IP69/IP69K", "SIM": "Dual nano-SIM" },
+      "Connectivity": { "Network": "5G", "Wi-Fi": "Wi-Fi 7", "Bluetooth": "6.0", "NFC": "Yes", "USB": "USB Type-C 2.0" },
+      "Misc": { "Colors": "Charcoal Black, Electric Violet, Mint Breeze", "Sensors": "Ultrasonic under-display fingerprint, accelerometer, gyro, proximity, compass, IR blaster" }
+    },
+    "sources": [
+      "https://gadgets.beebom.com/mobile/oneplus-15r?view=specs",
+      "https://www.droid-life.com/2025/12/17/oneplus-15r-is-here-at-699/",
+      "https://propakistani.pk/2025/12/18/oneplus-15r-launched-globally-with-flagship-grade-specs-but-without-the-flagship-price-tag/"
+    ],
+    "verified": "spec-database"
+  },
+  {
+    "id": "vivo-x500-pro",
+    "brand": "vivo",
+    "name": "X500 Pro",
+    "announced": "2026-09-21",
+    "status": "Available",
+    "priceUSD": null,
+    "pricePKR": null,
+    "key": { "displayIn": 6.36, "refreshHz": 144, "chip": "Dimensity 9600 Pro", "ramGB": 12, "storageMinGB": 256, "mainCamMP": 50, "batteryMah": 6510, "chargingW": 90, "weightG": 197, "os": "Android 17, OriginOS 7" },
+    "specs": {
+      "Display": { "Type": "LTPO AMOLED, 10-bit, Dolby Vision", "Size": "6.36 inches", "Resolution": "1216 x 2660 pixels (1.5K)", "Refresh rate": "1-144Hz", "Brightness": "4500 nits (local peak)", "Protection": null },
+      "Platform": { "OS": "Android 17, OriginOS 7", "Chipset": "MediaTek Dimensity 9600 Pro (2 nm)", "CPU": "Octa-core (2x4.55 GHz + 3x4.35 GHz + 3x3.1 GHz)", "GPU": "Mali-G2-Ultra-NX" },
+      "Memory": { "RAM": "12GB LPDDR5X Ultra", "Storage": "256GB UFS 4.1", "Card slot": "No" },
+      "Main camera": { "Setup": "Triple (Zeiss)", "Main": "50 MP, f/1.57, 24mm, 1/1.28\" Sony LYT-910, OIS", "Ultrawide": "50 MP, f/2.0, 15mm, 119°, Samsung JN5", "Telephoto": "64 MP periscope, f/2.52, 85mm, 1/1.95\" Sony LYT-610, 3.5x optical, OIS", "Video": "8K@30fps, 4K up to 240fps, 10-bit Log, Dolby Vision" },
+      "Selfie camera": { "Camera": "50 MP, f/2.0, 20mm, Samsung JN1", "Video": "4K@60fps" },
+      "Battery": { "Capacity": "6510 mAh (typical), 6305 mAh (rated)", "Wired": "90W FlashCharge", "Wireless": "40W FlashCharge; reverse wired and wireless" },
+      "Body": { "Dimensions": "151.78 x 71.92 x 8.12 mm", "Weight": "197 g", "Build": "Glass front, fiberglass back, aluminium frame", "IP rating": "IP68/IP69", "SIM": "Dual nano-SIM" },
+      "Connectivity": { "Network": "5G", "Wi-Fi": "Wi-Fi 7", "Bluetooth": "5.4", "NFC": "Yes", "USB": "USB Type-C 3.2, DisplayPort" },
+      "Misc": { "Colors": "Gray, Orange (Malaysia)", "Sensors": "Ultrasonic under-display fingerprint, accelerometer, gyro, proximity, compass, laser AF, IR blaster", "Market": "China (from CNY 6,499) and Malaysia; wider rollout pending" }
+    },
+    "sources": [
+      "https://www.vivo.com/my/products/param/x500-pro",
+      "https://gadgets.beebom.com/mobile/vivo-x500-pro",
+      "https://www.91mobiles.com/hub/vivo-x500-series-launched-china-price-specifications/"
+    ],
+    "verified": "official"
+  },
+  {
+    "id": "oppo-find-x10-pro-max",
+    "brand": "OPPO",
+    "name": "Find X10 Pro Max",
+    "announced": "2026-09-22",
+    "status": "Available",
+    "priceUSD": null,
+    "pricePKR": null,
+    "key": { "displayIn": 6.78, "refreshHz": 144, "chip": "Dimensity 9600 Pro", "ramGB": 12, "storageMinGB": 256, "mainCamMP": 200, "batteryMah": 8000, "chargingW": 80, "weightG": 233, "os": "Android 17, ColorOS 17" },
+    "specs": {
+      "Display": { "Type": "LTPO AMOLED, 10-bit, Dolby Vision", "Size": "6.78 inches", "Resolution": "1272 x 2772 pixels (1.5K)", "Refresh rate": "144Hz", "Brightness": "2000 nits (HBM), 3600 nits (peak)", "Protection": "Crystal Guard glass" },
+      "Platform": { "OS": "Android 17, ColorOS 17", "Chipset": "MediaTek Dimensity 9600 Pro (2 nm)", "CPU": "Octa-core (2x4.55 GHz + 3x4.35 GHz + 3x3.1 GHz)", "GPU": "Mali-G2-Ultra-NX" },
+      "Memory": { "RAM": "12GB / 16GB LPDDR5X", "Storage": "256GB / 512GB / 1TB UFS 4.1", "Card slot": "No" },
+      "Main camera": { "Setup": "Triple (Hasselblad)", "Main": "200 MP, f/1.5, 24mm, 1/1.3\" Samsung HPC, OIS", "Ultrawide": "200 MP, f/2.2, 13mm, 124°, 1/1.56\" Samsung HP5", "Telephoto": "200 MP periscope, f/2.1, 70mm, 1/1.56\" Samsung HP5, 3x optical, OIS", "Video": "4K@120fps, 10-bit Log, Dolby Vision" },
+      "Selfie camera": { "Camera": "50 MP, f/2.0, 18mm, Samsung JN5", "Video": "4K@60fps" },
+      "Battery": { "Capacity": "8000 mAh (silicon-carbon)", "Wired": "80W", "Wireless": "50W; 10W reverse wireless" },
+      "Body": { "Dimensions": "161.3 x 76.6 x 8.4 mm", "Weight": "233 g", "Build": "Glass front (Crystal Guard), glass back, aluminium frame", "IP rating": "IP66/IP68/IP69", "SIM": "Dual nano-SIM" },
+      "Connectivity": { "Network": "5G", "Wi-Fi": "Wi-Fi 7", "Bluetooth": "6.2", "NFC": "Yes", "USB": "USB Type-C 3.2 Gen 1" },
+      "Misc": { "Colors": "Luna White, Titanium Grey", "Sensors": "Ultrasonic under-display fingerprint, accelerometer, gyro, proximity, compass, IR blaster, spectral", "Market": "China (from CNY 6,799) and India (launched 22 Oct 2026); no EUR/USD price yet" }
+    },
+    "sources": [
+      "https://telecomtalk.info/oppo-find-x10-pro-max-launched-specifications/1012073/",
+      "https://gadgets.beebom.com/mobile/oppo-find-x10-pro-max?view=specs",
+      "https://www.gizchina.com/oppo-phones-2/oppo-find-x10-pro-max-officially-unveiled-how-much-does-it-cost"
+    ],
+    "verified": "spec-database"
+  },
+  {
+    "id": "honor-magic9-pro-max",
+    "brand": "Honor",
+    "name": "Magic9 Pro Max",
+    "announced": "2026-09-28",
+    "status": "Available",
+    "priceUSD": null,
+    "pricePKR": null,
+    "key": { "displayIn": 6.8, "refreshHz": 120, "chip": "Snapdragon 8 Elite Extreme Gen 6", "ramGB": 12, "storageMinGB": 256, "mainCamMP": 200, "batteryMah": 8800, "chargingW": 100, "weightG": 233, "os": "Android 17, MagicOS 11" },
+    "specs": {
+      "Display": { "Type": "LTPO OLED, 10-bit, Dolby Vision, HDR Vivid, 4320Hz PWM", "Size": "6.8 inches", "Resolution": "1320 x 2868 pixels", "Refresh rate": "1-120Hz", "Brightness": "2000 nits (HBM), 10000 nits (local peak, HDR)", "Protection": "NanoCrystal Shield" },
+      "Platform": { "OS": "Android 17, MagicOS 11", "Chipset": "Qualcomm Snapdragon 8 Elite Extreme Gen 6 (2 nm)", "CPU": "Octa-core (2x5.01 GHz + 3x4.03 GHz + 3x3.74 GHz)", "GPU": "Adreno 850" },
+      "Memory": { "RAM": "12GB / 16GB", "Storage": "256GB / 512GB / 1TB", "Card slot": "No" },
+      "Main camera": { "Setup": "Triple (ARRI Image Science)", "Main": "200 MP, f/1.6, 23mm, 1/1.28\", OIS", "Ultrawide": "50 MP, f/2.0, 12mm", "Telephoto": "200 MP periscope, f/2.6, 85mm, 1/1.4\", 3.7x optical, OIS", "Video": "4K, ARRI LogC3" },
+      "Selfie camera": { "Camera": "50 MP, f/2.0, 21mm, 1/2.93\" + 3D ToF", "Video": "4K" },
+      "Battery": { "Capacity": "8800 mAh (silicon-carbon)", "Wired": "100W; 5W reverse wired", "Wireless": "80W; reverse wireless" },
+      "Body": { "Dimensions": "161.64 x 76.98 x 8.59 mm", "Weight": "233 g", "Build": "Glass front (NanoCrystal Shield), glass back, aluminium frame", "IP rating": "IP68/IP69/IP69K", "SIM": "Nano-SIM + eSIM" },
+      "Connectivity": { "Network": "5G", "Wi-Fi": null, "Bluetooth": null, "NFC": "Yes", "USB": "USB Type-C 3.2 Gen 1" },
+      "Misc": { "Colors": "Shadow Black, Glacier Silver, Moss Green", "Sensors": "Ultrasonic under-display fingerprint, 3D face (ToF), accelerometer, gyro, proximity, compass, IR blaster", "Market": "China only (from CNY 6,499); Hong Kong launch set for Nov 2026, no international price yet" }
+    },
+    "sources": [
+      "https://propakistani.pk/2026/09/29/honor-magic9-pro-max-arrives-with-8-elite-extreme-gen-6-and-500mm-lens/",
+      "https://gadgets.beebom.com/mobile/honor-magic-9-pro-max?view=specs",
+      "https://www.notebookcheck.net/Honor-Magic9-and-Magic9-Pro-Max-specs-leak-with-large-8-800-mAh-battery-and-major-camera-upgrades.1398852.0.html"
+    ],
+    "verified": "spec-database"
+  },
+  {
+    "id": "nothing-phone-3",
+    "brand": "Nothing",
+    "name": "Phone (3)",
+    "announced": "2025-07-01",
+    "status": "Available",
+    "priceUSD": 799,
+    "pricePKR": 311999,
+    "key": { "displayIn": 6.67, "refreshHz": 120, "chip": "Snapdragon 8s Gen 4", "ramGB": 12, "storageMinGB": 256, "mainCamMP": 50, "batteryMah": 5150, "chargingW": 65, "weightG": 218, "os": "Android 15, Nothing OS 3.5" },
+    "specs": {
+      "Display": { "Type": "AMOLED, 10-bit, HDR10+", "Size": "6.67 inches", "Resolution": "1260 x 2800 pixels (1.5K)", "Refresh rate": "120Hz", "Brightness": "1600 nits (HBM), 4500 nits (peak)", "Protection": "Corning Gorilla Glass 7i (front), Gorilla Glass Victus (back)" },
+      "Platform": { "OS": "Android 15, Nothing OS 3.5", "Chipset": "Qualcomm Snapdragon 8s Gen 4 (4 nm)", "CPU": "Octa-core (1x3.21 GHz Cortex-X4 + 3x3.0 GHz + 2x2.8 GHz + 2x2.0 GHz Cortex-A720)", "GPU": "Adreno 825" },
+      "Memory": { "RAM": "12GB / 16GB LPDDR5X", "Storage": "256GB / 512GB UFS 4.0", "Card slot": "No" },
+      "Main camera": { "Setup": "Triple", "Main": "50 MP, f/1.68, 24mm, 1/1.3\" OmniVision OV50H, OIS", "Ultrawide": "50 MP, f/2.2, 15mm, 114°, Samsung JN1", "Telephoto": "50 MP periscope, f/2.7, 70mm, 1/2.75\" Samsung JN5, 3x optical, OIS", "Video": "4K@30/60fps, 1080p up to 240fps" },
+      "Selfie camera": { "Camera": "50 MP, f/2.2, Samsung JN1", "Video": null },
+      "Battery": { "Capacity": "5150 mAh (5500 mAh India version)", "Wired": "65W", "Wireless": "15W; 5W reverse wireless, 7.5W reverse wired" },
+      "Body": { "Dimensions": "160.6 x 75.59 x 8.99 mm", "Weight": "218 g", "Build": "Glass front and back, aluminium frame, Glyph Matrix", "IP rating": "IP68", "SIM": "Nano-SIM + eSIM" },
+      "Connectivity": { "Network": "5G", "Wi-Fi": "Wi-Fi 7", "Bluetooth": "6.0", "NFC": "Yes", "USB": "USB Type-C 2.0" },
+      "Misc": { "Colors": "White, Black", "Sensors": "Optical under-display fingerprint, accelerometer, gyro, proximity, compass" }
+    },
+    "sources": [
+      "https://gadgets.beebom.com/mobile/nothing-phone-3?view=specs",
+      "https://priceoye.pk/mobiles/nothing/nothing-phone-3"
+    ],
+    "verified": "spec-database"
+  },
+  {
+    "id": "motorola-signature",
+    "brand": "Motorola",
+    "name": "Signature",
+    "announced": "2026-01-06",
+    "status": "Available",
+    "priceUSD": 1159,
+    "pricePKR": null,
+    "key": { "displayIn": 6.8, "refreshHz": 165, "chip": "Snapdragon 8 Gen 5", "ramGB": 12, "storageMinGB": 256, "mainCamMP": 50, "batteryMah": 5200, "chargingW": 90, "weightG": 186, "os": "Android 16, Hello UI" },
+    "specs": {
+      "Display": { "Type": "LTPO AMOLED, 10-bit, Dolby Vision, quad-curved", "Size": "6.8 inches", "Resolution": "1264 x 2780 pixels (1.5K)", "Refresh rate": "165Hz", "Brightness": "2400 nits (HBM), 6200 nits (peak)", "Protection": "Corning Gorilla Glass Victus 2" },
+      "Platform": { "OS": "Android 16, Hello UI (7 years of OS updates)", "Chipset": "Qualcomm Snapdragon 8 Gen 5 (3 nm)", "CPU": "Octa-core (2x3.8 GHz + 6x3.32 GHz Oryon V3)", "GPU": "Adreno 829" },
+      "Memory": { "RAM": "12GB / 16GB LPDDR5X", "Storage": "256GB / 512GB / 1TB UFS 4.1", "Card slot": "No" },
+      "Main camera": { "Setup": "Triple", "Main": "50 MP, f/1.6, 23mm, 1/1.28\" Sony LYT-828, OIS", "Ultrawide": "50 MP, f/2.0, 12mm, 122°, Samsung JN1", "Telephoto": "50 MP periscope, f/2.4, 71mm, 1/1.95\" Sony LYT-600, 3x optical, OIS", "Video": "8K@30fps, 4K@60fps, Dolby Vision" },
+      "Selfie camera": { "Camera": "50 MP, f/2.0, Sony LYTIA 500, PDAF", "Video": "4K@60fps" },
+      "Battery": { "Capacity": "5200 mAh (silicon-carbon)", "Wired": "90W TurboPower", "Wireless": "50W; 10W reverse wireless, 5W reverse wired" },
+      "Body": { "Dimensions": "162.1 x 76.4 x 6.99 mm", "Weight": "186 g", "Build": "Glass front (Victus 2), vegan leather back, aluminium frame, MIL-STD-810H", "IP rating": "IP68/IP69", "SIM": "Dual nano-SIM" },
+      "Connectivity": { "Network": "5G", "Wi-Fi": "Wi-Fi 7", "Bluetooth": "6.0", "NFC": "Yes", "USB": "USB Type-C 3.1 Gen 2, DisplayPort 1.4" },
+      "Misc": { "Colors": "Pantone Martini Olive, Pantone Carbon", "Sensors": "Ultrasonic under-display fingerprint, accelerometer, gyro, proximity, compass" }
+    },
+    "sources": [
+      "https://gadgets.beebom.com/mobile/motorola-signature?view=specs",
+      "https://www.androidcentral.com/phones/motorola/unveiling-the-motorola-signature-launches-ces-2026",
+      "https://www.notebookcheck.net/Motorola-Signature-launches-with-slim-design-50-MP-triple-rear-cameras-and-7-years-of-updates.1199669.0.html"
+    ],
+    "verified": "spec-database"
+  },
+  {
+    "id": "tecno-camon-50-pro",
+    "brand": "Tecno",
+    "name": "Camon 50 Pro",
+    "announced": "2026-02-17",
+    "status": "Available",
+    "priceUSD": null,
+    "pricePKR": 101000,
+    "key": { "displayIn": 6.78, "refreshHz": 144, "chip": "Helio G200 Ultimate", "ramGB": 8, "storageMinGB": 256, "mainCamMP": 50, "batteryMah": 6150, "chargingW": 45, "weightG": 178, "os": "Android 16, HiOS 16" },
+    "specs": {
+      "Display": { "Type": "Curved AMOLED", "Size": "6.78 inches", "Resolution": "1208 x 2644 pixels (1.5K)", "Refresh rate": "144Hz", "Brightness": null, "Protection": "Corning Gorilla Glass 7i" },
+      "Platform": { "OS": "Android 16, HiOS 16", "Chipset": "MediaTek Helio G200 Ultimate (6 nm)", "CPU": "Octa-core (2x2.2 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55)", "GPU": "Mali-G57 MC2" },
+      "Memory": { "RAM": "8GB LPDDR4X", "Storage": "256GB UFS 2.2", "Card slot": "No" },
+      "Main camera": { "Setup": "Triple", "Main": "50 MP, f/1.8, 23mm, 1/1.56\" Sony LYT-700C, OIS", "Ultrawide": "8 MP, f/2.2, 14mm, 112°", "Telephoto": "50 MP, f/2.4, 70mm, 3x optical, OIS", "Video": "1080p@30fps" },
+      "Selfie camera": { "Camera": "32 MP, f/2.5", "Video": null },
+      "Battery": { "Capacity": "6150 mAh", "Wired": "45W", "Wireless": "No" },
+      "Body": { "Dimensions": "162.37 x 76.97 x 7.38 mm", "Weight": "178 g", "Build": "Glass front (Gorilla Glass 7i), plastic back, plastic frame, MIL-STD-810H", "IP rating": "IP68/IP69/IP69K", "SIM": "Dual nano-SIM" },
+      "Connectivity": { "Network": "4G LTE (no 5G)", "Wi-Fi": "Wi-Fi 5", "Bluetooth": "5.2", "NFC": "Yes", "USB": "USB Type-C 2.0" },
+      "Misc": { "Colors": "Moonshadow Black, Malachite Green, Nebula Titanium (Pakistan)", "Sensors": "Optical under-display fingerprint, accelerometer, proximity, compass, IR blaster", "Market": "4G version sold in Pakistan/Africa; a separate Camon 50 Pro 5G (Dimensity 7400, 6500 mAh) exists in other markets" }
+    },
+    "sources": [
+      "https://gadgets.beebom.com/mobile/tecno-camon-50-pro",
+      "https://propakistani.pk/2026/02/17/tecno-camon-50-pro-arrives-with-premium-build-powerful-cameras-and-dynamic-island-for-under-350/",
+      "https://www.phoneworld.com.pk/tecno-camon-50-pro-launched-in-pakistan-with-ai-60x-super-zoom-flashsnap-underwater-photography/",
+      "https://priceoye.pk/mobiles/tecno/tecno-camon-50-pro"
+    ],
+    "verified": "spec-database"
+  },
+  {
+    "id": "infinix-note-60-ultra",
+    "brand": "Infinix",
+    "name": "Note 60 Ultra",
+    "announced": "2026-03-04",
+    "status": "Available",
+    "priceUSD": null,
+    "pricePKR": 239999,
+    "key": { "displayIn": 6.78, "refreshHz": 144, "chip": "Dimensity 8400 Ultimate", "ramGB": 12, "storageMinGB": 256, "mainCamMP": 200, "batteryMah": 7000, "chargingW": 100, "weightG": 220, "os": "Android 16, XOS 16" },
+    "specs": {
+      "Display": { "Type": "AMOLED, 10-bit", "Size": "6.78 inches", "Resolution": "1208 x 2644 pixels (1.5K)", "Refresh rate": "144Hz", "Brightness": "1600 nits (HBM), 4500 nits (peak)", "Protection": "Corning Gorilla Glass 7i (front), Gorilla Glass Victus (back)" },
+      "Platform": { "OS": "Android 16, XOS 16", "Chipset": "MediaTek Dimensity 8400 Ultimate (4 nm)", "CPU": "Octa-core (1x3.25 GHz + 3x3.0 GHz + 4x2.1 GHz Cortex-A725)", "GPU": "Mali-G720 MC7" },
+      "Memory": { "RAM": "12GB LPDDR5X", "Storage": "256GB / 512GB UFS 4.0", "Card slot": "No" },
+      "Main camera": { "Setup": "Triple", "Main": "200 MP, f/1.69, 23mm, 1/1.4\", OIS", "Ultrawide": "8 MP, f/2.2, 112°", "Telephoto": "50 MP periscope, f/2.88, 80mm, 3.5x optical, OIS", "Video": "4K@30/60fps, 1080p@30/60fps" },
+      "Selfie camera": { "Camera": "32 MP, f/2.2", "Video": "4K@30fps" },
+      "Battery": { "Capacity": "7000 mAh (silicon-carbon)", "Wired": "100W; 10W reverse wired", "Wireless": "50W; 10W reverse wireless" },
+      "Body": { "Dimensions": "162.37 x 77.17 x 7.9 mm", "Weight": "220 g", "Build": "Glass front (GG 7i), glass back (GG Victus), aluminium frame; Pininfarina design", "IP rating": "IP64", "SIM": "Dual nano-SIM" },
+      "Connectivity": { "Network": "5G", "Wi-Fi": "Wi-Fi 6", "Bluetooth": "5.4", "NFC": "Yes", "USB": "USB Type-C" },
+      "Misc": { "Colors": "Amalfi Blue, Roma Silver, Monza Red", "Sensors": "Optical under-display fingerprint, accelerometer, gyro, proximity, compass, IR blaster" }
+    },
+    "sources": [
+      "https://gadgets.beebom.com/mobile/infinix-note-60-ultra?view=specs",
+      "https://tech-ish.com/2026/03/05/infinix-note-60-ultra-launched/",
+      "https://www.gizmochina.com/2026/03/05/infinix-note-60-ultra-launched-price-specifications/",
+      "https://priceoye.pk/mobiles/infinix/infinix-note-60-ultra"
+    ],
+    "verified": "spec-database"
+  }
+]

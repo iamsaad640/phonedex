@@ -1,0 +1,262 @@
+[
+  {
+    "id": "oneplus-15",
+    "brand": "OnePlus",
+    "name": "15",
+    "announced": "2025-10-27",
+    "status": "Available",
+    "priceUSD": 899.99,
+    "pricePKR": null,
+    "key": {
+      "displayIn": 6.78, "refreshHz": 165, "chip": "Snapdragon 8 Elite Gen 5", "ramGB": 12, "storageMinGB": 256,
+      "mainCamMP": 50, "batteryMah": 7300, "chargingW": 120, "weightG": 211, "os": "Android 16, OxygenOS 16"
+    },
+    "specs": {
+      "Display": { "Type": "LTPO AMOLED, 1B colors, Dolby Vision, HDR10+, HDR Vivid", "Size": "6.78 inches", "Resolution": "1272 x 2772 pixels (~450 ppi)", "Refresh rate": "1-120Hz adaptive, up to 165Hz in games", "Brightness": "800 nits (typ), 1800 nits (HBM)", "Protection": "Corning Gorilla Glass Victus 2" },
+      "Platform": { "OS": "Android 16, OxygenOS 16", "Chipset": "Qualcomm Snapdragon 8 Elite Gen 5 (3 nm)", "CPU": "Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M)", "GPU": "Adreno 840" },
+      "Memory": { "RAM": "12GB, 16GB", "Storage": "256GB, 512GB (UFS 4.1)", "Card slot": "No" },
+      "Main camera": { "Setup": "Triple", "Main": "50 MP, f/1.8, 24mm, 1/1.56\", OIS", "Telephoto": "50 MP, f/2.8, 80mm periscope, 3.5x optical zoom, OIS", "Ultrawide": "50 MP, f/2.0, 116 degrees, AF", "Video": "8K@30fps, 4K@30/60/120fps, Dolby Vision" },
+      "Selfie camera": { "Camera": "32 MP, f/2.4", "Video": "4K@30/60fps" },
+      "Battery": { "Capacity": "7300 mAh (Si/C)", "Wired": "120W (80W in the US and Canada)", "Wireless": "50W, 10W reverse wireless" },
+      "Body": { "Dimensions": "161.4 x 76.7 x 8.1 mm", "Weight": "211 g or 215 g", "Build": "Glass front (Gorilla Glass Victus 2), aluminium frame, glass or glass-fibre reinforced plastic back", "IP rating": "IP68 / IP69K", "SIM": "Dual Nano-SIM (eSIM on some markets)" },
+      "Connectivity": { "Network": "5G", "Wi-Fi": "Wi-Fi 7", "Bluetooth": "6.0", "NFC": "Yes", "USB": "USB Type-C 3.2" },
+      "Misc": { "Colors": "Infinite Black, Ultra Violet, Sand Storm", "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, proximity, gyro, compass, barometer (not in China)", "Market": "China version runs ColorOS; the US and Canada version charges at 80W instead of 120W" }
+    },
+    "sources": ["https://www.oneplus.com/us/15/specs", "https://www.gsmarena.com/oneplus_15_5g-14206.php", "https://www.oneplus.com/us/press/press-release/oneplus-launches-the-oneplus-15--the-ultimate-performance-flagship-smartphone-for-north-america"],
+    "verified": "spec-database"
+  },
+  {
+    "id": "oneplus-13r",
+    "brand": "OnePlus",
+    "name": "13R",
+    "announced": "2025-01-07",
+    "status": "Available",
+    "priceUSD": 599.99,
+    "pricePKR": null,
+    "key": {
+      "displayIn": 6.78, "refreshHz": 120, "chip": "Snapdragon 8 Gen 3", "ramGB": 12, "storageMinGB": 256,
+      "mainCamMP": 50, "batteryMah": 6000, "chargingW": 80, "weightG": 206, "os": "Android 15, OxygenOS 15"
+    },
+    "specs": {
+      "Display": { "Type": "LTPO 4.1 AMOLED (ProXDR), 10-bit", "Size": "6.78 inches", "Resolution": "1264 x 2780 pixels (~450 ppi)", "Refresh rate": "1-120Hz adaptive", "Brightness": "1600 nits (typ), 4500 nits (peak)", "Protection": "Corning Gorilla Glass 7i" },
+      "Platform": { "OS": "Android 15, OxygenOS 15", "Chipset": "Qualcomm Snapdragon 8 Gen 3 (4 nm)", "CPU": "Octa-core (up to 3.3 GHz)", "GPU": "Adreno 750" },
+      "Memory": { "RAM": "12GB, 16GB", "Storage": "256GB, 512GB (UFS 4.0)", "Card slot": "No" },
+      "Main camera": { "Setup": "Triple", "Main": "50 MP, f/1.8, 1/1.56\", OIS", "Telephoto": "50 MP, f/2.0, 2x optical zoom", "Ultrawide": "8 MP, f/2.2, 112 degrees", "Video": "4K@60fps" },
+      "Selfie camera": { "Camera": "16 MP, f/2.4", "Video": "1080p@30fps" },
+      "Battery": { "Capacity": "6000 mAh", "Wired": "80W", "Wireless": "No" },
+      "Body": { "Dimensions": "161.7 x 75.8 x 8.0 mm", "Weight": "206 g", "Build": null, "IP rating": null, "SIM": "Dual Nano-SIM" },
+      "Connectivity": { "Network": "5G", "Wi-Fi": "Wi-Fi 7", "Bluetooth": "5.4", "NFC": "Yes", "USB": "USB Type-C 2.0" },
+      "Misc": { "Colors": "Astral Trail, Nebula Noir", "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, compass, proximity, infrared remote", "Market": "OnePlus US page lists 55W in the box (80W with a separate adapter); the global and India pages list 80W" }
+    },
+    "sources": ["https://www.oneplus.com/global/13r/specs", "https://www.oneplus.com/us/13r/specs"],
+    "verified": "official"
+  },
+  {
+    "id": "oneplus-nord-5",
+    "brand": "OnePlus",
+    "name": "Nord 5",
+    "announced": "2025-07-08",
+    "status": "Available",
+    "priceUSD": null,
+    "pricePKR": null,
+    "key": {
+      "displayIn": 6.83, "refreshHz": 144, "chip": "Snapdragon 8s Gen 3", "ramGB": 8, "storageMinGB": 256,
+      "mainCamMP": 50, "batteryMah": 5200, "chargingW": 80, "weightG": 211, "os": "Android 15, OxygenOS 15"
+    },
+    "specs": {
+      "Display": { "Type": "AMOLED, HDR10+", "Size": "6.83 inches", "Resolution": "1272 x 2800 pixels (~450 ppi)", "Refresh rate": "Up to 144Hz", "Brightness": "800 nits (typ), 1400 nits (HBM), 1800 nits (peak)", "Protection": "Corning Gorilla Glass 7i" },
+      "Platform": { "OS": "Android 15, OxygenOS 15", "Chipset": "Qualcomm Snapdragon 8s Gen 3 (4 nm)", "CPU": "Octa-core", "GPU": "Adreno 735" },
+      "Memory": { "RAM": "8GB, 12GB", "Storage": "256GB, 512GB (UFS 3.1)", "Card slot": "No" },
+      "Main camera": { "Setup": "Dual", "Main": "50 MP, f/1.8, OIS", "Ultrawide": "8 MP, f/2.2, 116 degrees", "Video": "4K@30/60fps" },
+      "Selfie camera": { "Camera": "50 MP, f/2.0", "Video": "4K@30/60fps" },
+      "Battery": { "Capacity": "5200 mAh", "Wired": "80W", "Wireless": "No" },
+      "Body": { "Dimensions": "163.4 x 77.0 x 8.1 mm", "Weight": "211 g", "Build": "Glass front and back, plastic frame", "IP rating": "IP65", "SIM": "Dual Nano-SIM" },
+      "Connectivity": { "Network": "5G", "Wi-Fi": "Wi-Fi 6", "Bluetooth": "5.4", "NFC": "Yes", "USB": "USB Type-C 2.0" },
+      "Misc": { "Colors": "Phantom Grey, Dry Ice, Marble Sands", "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass", "Market": "India version has a 6800 mAh battery; launch prices EUR 499 / GBP 399 / INR 31,999 (8GB/128GB in India)" }
+    },
+    "sources": ["https://devicebeast.com/phones/nord-5", "https://www.kimovil.com/en/where-to-buy-oneplus-nord-5"],
+    "verified": "spec-database"
+  },
+  {
+    "id": "oppo-find-x9",
+    "brand": "OPPO",
+    "name": "Find X9",
+    "announced": "2025-10-16",
+    "status": "Available",
+    "priceUSD": null,
+    "pricePKR": null,
+    "key": {
+      "displayIn": 6.59, "refreshHz": 120, "chip": "Dimensity 9500", "ramGB": 12, "storageMinGB": 256,
+      "mainCamMP": 50, "batteryMah": 7025, "chargingW": 80, "weightG": 203, "os": "Android 16, ColorOS 16"
+    },
+    "specs": {
+      "Display": { "Type": "Flexible AMOLED, 10-bit, 100% DCI-P3", "Size": "6.59 inches", "Resolution": "1256 x 2760 pixels (~460 ppi)", "Refresh rate": "Up to 120Hz", "Brightness": "800 nits (typ), 1800 nits (HBM)", "Protection": "Corning Gorilla Glass 7i" },
+      "Platform": { "OS": "Android 16, ColorOS 16", "Chipset": "MediaTek Dimensity 9500 (3 nm)", "CPU": "Octa-core", "GPU": "Mali-G1 Ultra MC12" },
+      "Memory": { "RAM": "12GB, 16GB (LPDDR5X)", "Storage": "256GB, 512GB (UFS 4.1)", "Card slot": "No" },
+      "Main camera": { "Setup": "Triple", "Main": "50 MP, f/1.6, OIS", "Telephoto": "50 MP, f/2.6, 3x optical zoom, OIS", "Ultrawide": "50 MP, f/2.0, 120 degrees", "Video": "4K@120fps" },
+      "Selfie camera": { "Camera": "32 MP, f/2.4", "Video": "4K@60fps" },
+      "Battery": { "Capacity": "7025 mAh (6840 mAh rated)", "Wired": "80W SUPERVOOC / UFCS", "Wireless": "50W AIRVOOC" },
+      "Body": { "Dimensions": "157.0 x 73.9 x 8.0 mm", "Weight": "203 g", "Build": null, "IP rating": "IP69", "SIM": "Dual Nano-SIM + eSIM" },
+      "Connectivity": { "Network": "5G", "Wi-Fi": "Wi-Fi 7", "Bluetooth": "6.0", "NFC": "Yes (region dependent)", "USB": "USB Type-C" },
+      "Misc": { "Colors": "Space Black, Velvet Red, Titanium Grey", "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, compass, proximity, infrared remote", "Market": "Global launch 28 Oct 2025 (UK GBP 899 for 12GB/512GB, EUR 999); not sold in the US. Announced in China on 16 Oct 2025" }
+    },
+    "sources": ["https://www.oppo.com/en/smartphones/series-find-x/find-x9/specs/", "https://www.techadvisor.com/article/2954571/oppo-find-x9-and-x9-pro-go-global-with-european-and-uk-launch.html"],
+    "verified": "official"
+  },
+  {
+    "id": "oppo-find-x9-pro",
+    "brand": "OPPO",
+    "name": "Find X9 Pro",
+    "announced": "2025-10-16",
+    "status": "Available",
+    "priceUSD": null,
+    "pricePKR": null,
+    "key": {
+      "displayIn": 6.78, "refreshHz": 120, "chip": "Dimensity 9500", "ramGB": 16, "storageMinGB": 512,
+      "mainCamMP": 50, "batteryMah": 7500, "chargingW": 80, "weightG": 224, "os": "Android 16, ColorOS 16"
+    },
+    "specs": {
+      "Display": { "Type": "LTPO AMOLED, 10-bit, 100% DCI-P3", "Size": "6.78 inches", "Resolution": "1272 x 2772 pixels (~450 ppi)", "Refresh rate": "Up to 120Hz", "Brightness": "800 nits (typ), 1800 nits (HBM)", "Protection": "Corning Gorilla Glass Victus 2" },
+      "Platform": { "OS": "Android 16, ColorOS 16", "Chipset": "MediaTek Dimensity 9500 (3 nm)", "CPU": "Octa-core", "GPU": "Mali-G1 Ultra MC12" },
+      "Memory": { "RAM": "16GB (LPDDR5X)", "Storage": "512GB (UFS 4.1)", "Card slot": "No" },
+      "Main camera": { "Setup": "Triple", "Main": "50 MP, f/1.5, OIS", "Telephoto": "200 MP, f/2.1, 70mm periscope, 3x optical zoom, OIS", "Ultrawide": "50 MP, f/2.0, 120 degrees", "Video": "4K@120fps" },
+      "Selfie camera": { "Camera": "50 MP, f/2.0", "Video": "4K@60fps" },
+      "Battery": { "Capacity": "7500 mAh (7290 mAh rated)", "Wired": "80W SUPERVOOC / UFCS", "Wireless": "50W AIRVOOC" },
+      "Body": { "Dimensions": "161.3 x 76.5 x 8.3 mm", "Weight": "224 g", "Build": null, "IP rating": "IP69", "SIM": "Dual Nano-SIM + eSIM" },
+      "Connectivity": { "Network": "5G", "Wi-Fi": "Wi-Fi 7", "Bluetooth": "6.0", "NFC": "Yes (region dependent)", "USB": "USB Type-C 3.2 Gen 1" },
+      "Misc": { "Colors": "Titanium Charcoal, Silk White", "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, compass, proximity, infrared remote", "Market": "Global launch 28 Oct 2025 (UK GBP 1,099, EUR 1,299 for 16GB/512GB); not sold in the US. Announced in China on 16 Oct 2025" }
+    },
+    "sources": ["https://www.oppo.com/en/smartphones/series-find-x/find-x9-pro/specs/", "https://www.techadvisor.com/article/2954571/oppo-find-x9-and-x9-pro-go-global-with-european-and-uk-launch.html"],
+    "verified": "official"
+  },
+  {
+    "id": "oppo-reno15",
+    "brand": "OPPO",
+    "name": "Reno15 5G",
+    "announced": "2025-11-17",
+    "status": "Available",
+    "priceUSD": null,
+    "pricePKR": 159995,
+    "key": {
+      "displayIn": 6.59, "refreshHz": 120, "chip": "Snapdragon 7 Gen 4", "ramGB": 12, "storageMinGB": 256,
+      "mainCamMP": 50, "batteryMah": 6500, "chargingW": 80, "weightG": 197, "os": "Android 16, ColorOS 16"
+    },
+    "specs": {
+      "Display": { "Type": "AMOLED, 10-bit, 100% DCI-P3", "Size": "6.59 inches", "Resolution": "1256 x 2760 pixels (~460 ppi)", "Refresh rate": "Up to 120Hz", "Brightness": "600 nits (typ), 1200 nits (HBM)", "Protection": "Corning Gorilla Glass 7i" },
+      "Platform": { "OS": "Android 16, ColorOS 16", "Chipset": "Qualcomm Snapdragon 7 Gen 4 (4 nm)", "CPU": "Octa-core", "GPU": "Adreno 722" },
+      "Memory": { "RAM": "8GB, 12GB (LPDDR5X)", "Storage": "256GB, 512GB (UFS 3.1)", "Card slot": "No" },
+      "Main camera": { "Setup": "Triple", "Main": "50 MP, f/1.8, OIS", "Telephoto": "50 MP, f/2.8, 3.5x optical zoom, OIS", "Ultrawide": "8 MP, f/2.2, 116 degrees", "Video": null },
+      "Selfie camera": { "Camera": "50 MP, f/2.0, AF", "Video": null },
+      "Battery": { "Capacity": "6500 mAh (6335 mAh rated)", "Wired": "80W SUPERVOOC / UFCS", "Wireless": "No" },
+      "Body": { "Dimensions": "158.0 x 74.8 x 7.8 mm", "Weight": "197 g", "Build": null, "IP rating": null, "SIM": "Dual Nano-SIM + eSIM" },
+      "Connectivity": { "Network": "5G", "Wi-Fi": "Wi-Fi 6", "Bluetooth": "5.4", "NFC": "Yes (region dependent)", "USB": "USB Type-C" },
+      "Misc": { "Colors": "Aurora Blue, Twilight Blue, Aurora White", "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, compass, proximity, infrared remote", "Market": "PriceOye lists only 12GB/256GB (Rs 159,995) and 12GB/512GB; the global spec page also lists an 8GB/256GB version. First announced in China on 17 Nov 2025" }
+    },
+    "sources": ["https://www.oppo.com/en/smartphones/series-reno/reno15/specs/", "https://priceoye.pk/mobiles/oppo/oppo-reno15"],
+    "verified": "official"
+  },
+  {
+    "id": "oppo-reno-15-pro",
+    "brand": "OPPO",
+    "name": "Reno15 Pro 5G",
+    "announced": "2025-11-17",
+    "status": "Available",
+    "priceUSD": null,
+    "pricePKR": 234999,
+    "key": {
+      "displayIn": 6.32, "refreshHz": 120, "chip": "Dimensity 8450", "ramGB": 12, "storageMinGB": 256,
+      "mainCamMP": 200, "batteryMah": 6200, "chargingW": 80, "weightG": 187, "os": "Android 16, ColorOS 16"
+    },
+    "specs": {
+      "Display": { "Type": "AMOLED, 10-bit, 100% DCI-P3", "Size": "6.32 inches", "Resolution": "1216 x 2640 pixels (~460 ppi)", "Refresh rate": "Up to 120Hz", "Brightness": "600 nits (typ), 1800 nits (HBM)", "Protection": "Corning Gorilla Glass 7i" },
+      "Platform": { "OS": "Android 16, ColorOS 16", "Chipset": "MediaTek Dimensity 8450 (4 nm)", "CPU": "Octa-core", "GPU": "Mali-G720 MC7" },
+      "Memory": { "RAM": "12GB (LPDDR5X)", "Storage": "256GB, 512GB (UFS 3.1)", "Card slot": "No" },
+      "Main camera": { "Setup": "Triple", "Main": "200 MP, f/1.8, OIS", "Telephoto": "50 MP, f/2.8, 3.5x optical zoom, OIS", "Ultrawide": "50 MP, f/2.0, 116 degrees", "Video": null },
+      "Selfie camera": { "Camera": "50 MP, f/2.0, AF", "Video": null },
+      "Battery": { "Capacity": "6200 mAh (6035 mAh rated)", "Wired": "80W SUPERVOOC", "Wireless": "No" },
+      "Body": { "Dimensions": "151.2 x 72.4 x 8.0 mm", "Weight": "187 g or 188 g", "Build": null, "IP rating": null, "SIM": "Dual Nano-SIM + eSIM" },
+      "Connectivity": { "Network": "5G", "Wi-Fi": "Wi-Fi 6", "Bluetooth": "5.4", "NFC": "Yes (region dependent)", "USB": "USB Type-C" },
+      "Misc": { "Colors": "Dusk Brown, Aurora Blue", "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, compass, proximity, infrared remote", "Market": "PriceOye price is for the 12GB/512GB version, the only one it lists. India sells a larger Reno15 Pro Max (CPH2811) with a 6500 mAh battery. First announced in China on 17 Nov 2025" }
+    },
+    "sources": ["https://www.oppo.com/en/smartphones/series-reno/reno15-pro/specs/", "https://priceoye.pk/mobiles/oppo/oppo-reno-15-pro"],
+    "verified": "official"
+  },
+  {
+    "id": "oppo-reno-16-5g",
+    "brand": "OPPO",
+    "name": "Reno16 5G",
+    "announced": "2026-06-25",
+    "status": "Available",
+    "priceUSD": null,
+    "pricePKR": 183495,
+    "key": {
+      "displayIn": 6.32, "refreshHz": 120, "chip": "Snapdragon 7 Gen 4", "ramGB": 12, "storageMinGB": 256,
+      "mainCamMP": 50, "batteryMah": 6700, "chargingW": 80, "weightG": null, "os": "Android 16, ColorOS 16"
+    },
+    "specs": {
+      "Display": { "Type": "AMOLED, 10-bit, 3840Hz PWM, HDR10+", "Size": "6.32 inches", "Resolution": "1216 x 2640 pixels (~460 ppi)", "Refresh rate": "Up to 120Hz", "Brightness": "600 nits (typ), 1800 nits (HBM)", "Protection": "Crystal Guard" },
+      "Platform": { "OS": "Android 16, ColorOS 16", "Chipset": "Qualcomm Snapdragon 7 Gen 4 (4 nm)", "CPU": "Octa-core", "GPU": "Adreno 722" },
+      "Memory": { "RAM": "8GB, 12GB (LPDDR5X)", "Storage": "256GB (UFS 3.1); 512GB on GSMArena's list", "Card slot": "No" },
+      "Main camera": { "Setup": "Triple", "Main": "50 MP, f/1.8, OIS", "Telephoto": "50 MP, f/2.8, 3.5x optical zoom, OIS", "Ultrawide": "50 MP, f/2.0, 116 degrees", "Video": "4K@60fps" },
+      "Selfie camera": { "Camera": "50 MP, f/2.0, AF", "Video": "4K@60fps" },
+      "Battery": { "Capacity": "6700 mAh (6000 mAh in Europe)", "Wired": "80W SUPERVOOC", "Wireless": "No" },
+      "Body": { "Dimensions": "151.2 x 72.4 x 8.2 mm or 8.4 mm", "Weight": null, "Build": "Glass front, aluminium frame, glass or composite plastic back", "IP rating": "IP68 / IP69K", "SIM": "Dual Nano-SIM + eSIM" },
+      "Connectivity": { "Network": "5G", "Wi-Fi": "Wi-Fi 6", "Bluetooth": "5.4", "NFC": "Yes (region dependent)", "USB": "USB Type-C 2.0" },
+      "Misc": { "Colors": "Pop White, Twilight Violet, Dream Purple", "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, compass, proximity, infrared remote", "Market": "Global model; PriceOye lists only 12GB/256GB. A different Reno16 with a Dimensity 8550 Super and 6.32-inch screen launched in China on 29 May 2026" }
+    },
+    "sources": ["https://www.oppo.com/en/smartphones/series-reno/reno16/specs/", "https://www.gsmarena.com/oppo_reno16_5g-14747.php", "https://priceoye.pk/mobiles/oppo/oppo-reno-16-5g"],
+    "verified": "official"
+  },
+  {
+    "id": "oppo-reno-16-pro-5g",
+    "brand": "OPPO",
+    "name": "Reno16 Pro 5G",
+    "announced": "2026-06-25",
+    "status": "Available",
+    "priceUSD": null,
+    "pricePKR": null,
+    "key": {
+      "displayIn": 6.32, "refreshHz": 144, "chip": "Dimensity 8550 Super", "ramGB": 12, "storageMinGB": 256,
+      "mainCamMP": 200, "batteryMah": 6700, "chargingW": 80, "weightG": 188, "os": "Android 16, ColorOS 16"
+    },
+    "specs": {
+      "Display": { "Type": "AMOLED, 3840Hz PWM, HDR10+", "Size": "6.32 inches", "Resolution": "1216 x 2640 pixels (~460 ppi)", "Refresh rate": "Up to 144Hz", "Brightness": "600 nits (typ), 1800 nits (HBM), 3600 nits (peak)", "Protection": "Crystal Guard" },
+      "Platform": { "OS": "Android 16, ColorOS 16", "Chipset": "MediaTek Dimensity 8550 Super (4 nm)", "CPU": "Octa-core", "GPU": "Mali-G720 MC8" },
+      "Memory": { "RAM": "12GB (LPDDR5X)", "Storage": "256GB, 512GB (UFS 3.1)", "Card slot": "No" },
+      "Main camera": { "Setup": "Triple", "Main": "200 MP, f/1.8, OIS", "Telephoto": "50 MP, f/2.8, 3.5x optical zoom, OIS", "Ultrawide": "50 MP, f/2.0, 116 degrees", "Video": "4K@60fps" },
+      "Selfie camera": { "Camera": "50 MP, f/2.0, AF", "Video": "4K@60fps" },
+      "Battery": { "Capacity": "6700 mAh (6490 mAh rated)", "Wired": "80W SUPERVOOC / UFCS", "Wireless": "No" },
+      "Body": { "Dimensions": "151.2 x 72.4 x 8.2 mm or 8.4 mm", "Weight": "188 g or 191 g", "Build": "Glass front, aluminium frame, glass or composite plastic back", "IP rating": "IP68 / IP69K", "SIM": "Dual Nano-SIM + eSIM" },
+      "Connectivity": { "Network": "5G", "Wi-Fi": "Wi-Fi 6", "Bluetooth": "5.4", "NFC": "Yes (region dependent)", "USB": "USB Type-C" },
+      "Misc": { "Colors": "Starlight Black, Pop White", "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, compass, proximity, infrared remote", "Market": "Global model; the China Reno16 Pro (29 May 2026) is a different phone with a Dimensity 9500s and 7000 mAh battery" }
+    },
+    "sources": ["https://www.oppo.com/en/smartphones/series-reno/reno16-pro/specs/", "https://www.gsmarena.com/oppo_reno16_pro_5g-14746.php"],
+    "verified": "official"
+  },
+  {
+    "id": "oppo-reno-16f-5g",
+    "brand": "OPPO",
+    "name": "Reno16 F 5G",
+    "announced": "2026-06-25",
+    "status": "Available",
+    "priceUSD": null,
+    "pricePKR": 139495,
+    "key": {
+      "displayIn": 6.57, "refreshHz": 120, "chip": "Dimensity 7300 Energy", "ramGB": 8, "storageMinGB": 256,
+      "mainCamMP": 50, "batteryMah": 7000, "chargingW": 80, "weightG": 195, "os": "Android 16, ColorOS 16"
+    },
+    "specs": {
+      "Display": { "Type": "AMOLED, 10-bit", "Size": "6.57 inches", "Resolution": "1080 x 2372 pixels (~397 ppi)", "Refresh rate": "Up to 120Hz", "Brightness": "600 nits (typ), 1400 nits (HBM)", "Protection": "Crystal Guard" },
+      "Platform": { "OS": "Android 16, ColorOS 16", "Chipset": "MediaTek Dimensity 7300 Energy (4 nm)", "CPU": "Octa-core (4x2.5 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55)", "GPU": "Mali-G615 MC2" },
+      "Memory": { "RAM": "8GB, 12GB", "Storage": "128GB, 256GB (UFS 3.1)", "Card slot": "microSD" },
+      "Main camera": { "Setup": "Triple", "Main": "50 MP, f/1.8, OIS", "Telephoto": "50 MP, f/2.8, 3.5x optical zoom, OIS", "Ultrawide": "8 MP, f/2.2, 116 degrees", "Video": "4K@30fps" },
+      "Selfie camera": { "Camera": "50 MP, f/2.0, AF", "Video": "4K@30fps" },
+      "Battery": { "Capacity": "7000 mAh (6850 mAh rated)", "Wired": "80W SUPERVOOC (45W on the Europe model)", "Wireless": "No" },
+      "Body": { "Dimensions": "158.2 x 74.9 x 8.4 mm or 8.6 mm", "Weight": "195 g to 197 g", "Build": "Glass front, plastic frame, glass or composite plastic back", "IP rating": "IP68 / IP69K", "SIM": "Dual Nano-SIM + eSIM" },
+      "Connectivity": { "Network": "5G", "Wi-Fi": "Wi-Fi 6", "Bluetooth": "5.4", "NFC": "Yes (region dependent)", "USB": "USB Type-C 2.0" },
+      "Misc": { "Colors": "Pop White, Twilight Violet, Dream Purple", "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, compass, proximity", "Market": "Europe model has a 6500 mAh battery and 45W charging; PriceOye lists only 8GB/256GB (Rs 139,495)" }
+    },
+    "sources": ["https://www.oppo.com/en/smartphones/series-reno/reno16-f/specs/", "https://www.gsmarena.com/oppo_reno16_f_5g-14751.php", "https://priceoye.pk/mobiles/oppo/oppo-reno-16f-5g"],
+    "verified": "official"
+  }
+]

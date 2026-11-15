@@ -1,0 +1,19 @@
+{
+  "name": "phonedex",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Smartphone specs, Pakistan prices, comparisons and an AI support assistant.",
+  "scripts": {
+    "start": "node server.mjs",
+    "dev": "node --watch --env-file-if-exists=.env server.mjs",
+    "build:data": "node scripts/build-data.mjs",
+    "build:images": "node scripts/build-images.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^1.6.0"
+  }
+}

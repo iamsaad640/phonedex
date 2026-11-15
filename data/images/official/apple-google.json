@@ -1,0 +1,78 @@
+{
+  "apple-iphone-18-pro": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-finish-select-burgundy-202609?wid=1000&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/buy-iphone/iphone-18-pro"
+  },
+  "apple-iphone-18-pro-max": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-max-finish-select-black-202609?wid=1000&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/buy-iphone/iphone-18-pro"
+  },
+  "apple-iphone-duo": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-duo-finish-select-night-sky-202609?wid=1000&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/buy-iphone/iphone-duo"
+  },
+  "apple-iphone-17e": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17e-finish-select-black-202603?wid=1000&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/buy-iphone/iphone-17e"
+  },
+  "apple-iphone-17": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-finish-select-black-202509?wid=1000&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/buy-iphone/iphone-17"
+  },
+  "apple-iphone-17-pro": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-pro-finish-select-202509-6-3inch-cosmicorange?wid=1000&fmt=png-alpha",
+    "page": "https://www.apple.com/iphone/compare/"
+  },
+  "apple-iphone-17-pro-max": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-pro-finish-select-202509-6-9inch-deepblue?wid=1000&fmt=png-alpha",
+    "page": "https://www.apple.com/iphone/compare/"
+  },
+  "apple-iphone-air": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-select-lightgold-202509?wid=1000&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/buy-iphone/iphone-air"
+  },
+  "apple-iphone-16e": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16e-finish-select-202502-black?wid=1000&fmt=png-alpha",
+    "page": "https://www.apple.com/iphone/compare/"
+  },
+  "google-pixel-11": {
+    "url": "https://lh3.googleusercontent.com/A9jdScwGyi7gCuZEO_kuTZ81wPxT9l9jEMerIzkdpANksgNuUKGQ20VBkh9rSe_zx7vOLWASBPNtGrRxtsArZK6C_GzJN4TQCDw=w1000-rj-sc0xffffffff",
+    "page": "https://store.google.com/us/category/phones"
+  },
+  "google-pixel-11-pro": {
+    "url": "https://lh3.googleusercontent.com/v1pmRDLZ3m9mdfBQEvCN4O4nm-5Q5sRZpl1cRC4fqEiwFQnHyKk7PEuXEzefFzBN669NBYIp3IPuURkCRY9f0xuiD_K-P8jT3nM=w1000-rj-sc0xffffffff",
+    "page": "https://store.google.com/us/category/phones"
+  },
+  "google-pixel-11-pro-xl": {
+    "url": "https://lh3.googleusercontent.com/v1pmRDLZ3m9mdfBQEvCN4O4nm-5Q5sRZpl1cRC4fqEiwFQnHyKk7PEuXEzefFzBN669NBYIp3IPuURkCRY9f0xuiD_K-P8jT3nM=w1000-rj-sc0xffffffff",
+    "page": "https://store.google.com/us/category/phones"
+  },
+  "google-pixel-11-pro-fold": {
+    "url": "https://lh3.googleusercontent.com/etLYzAOLKOrdQBqRVqJbbnkyY9FAhzeNoL4IW5MMInfNfultl9F1ZVl5l3eFW5QupJto6raGnbL401R7aqeDA4h8dnBmbrelk7tL=w1000-rj-sc0xffffffff",
+    "page": "https://store.google.com/us/category/phones"
+  },
+  "google-pixel-10a": {
+    "url": "https://lh3.googleusercontent.com/V_tAnFVIvSnJo2UVEq3g6s2N32JILw5gYy0ABdYvOaFaheLR50ME553SoDxPBHo65LKRHAKGm1uhrk87UIhIXbfDm2Xzu8xgLw=w1000-rj-sc0xffffffff",
+    "page": "https://store.google.com/us/category/phones"
+  },
+  "google-pixel-10": {
+    "url": "https://lh3.googleusercontent.com/_TZ5M1yY11kvmIWDR4yMXLoaJBDg7rMJP8G0lYT-gjhByRcTR_dIyRD9Im_rfe5G90h_U7tfvf9Aionl6NJ43aaTGnxGgLg3ag=w1000-rj-sc0xffffffff",
+    "page": "https://store.google.com/us/category/phones"
+  },
+  "google-pixel-10-pro": {
+    "url": "https://lh3.googleusercontent.com/cUnl8qDLSpzTlH9_9fIEpNHq8EiVH-JwF-r0FPGha83zS26d0FO4LYUxYDU-k3CO6VDt9pyMOHWXiSvvFcenGccNM5B1L8TVO-2OtA=w1000-rj-sc0xffffffff",
+    "page": "https://store.google.com/us/product/pixel_10_pro"
+  },
+  "google-pixel-10-pro-xl": {
+    "url": "https://lh3.googleusercontent.com/cUnl8qDLSpzTlH9_9fIEpNHq8EiVH-JwF-r0FPGha83zS26d0FO4LYUxYDU-k3CO6VDt9pyMOHWXiSvvFcenGccNM5B1L8TVO-2OtA=w1000-rj-sc0xffffffff",
+    "page": "https://store.google.com/us/product/pixel_10_pro"
+  },
+  "google-pixel-10-pro-fold": {
+    "url": "https://lh3.googleusercontent.com/FEd3A1H2w20OIpSrOSLy-wFiLd7Ma50OkBdAqAtZgZupl5yPGRLrStldH22Q2-w5jIKExUhWl0ifLVDb0EN13QzncHiB8zkQ6Vs=w1000-rj-sc0xffffffff",
+    "page": "https://store.google.com/us/category/phones"
+  },
+  "google-pixel-9a": {
+    "url": "https://lh3.googleusercontent.com/0FQnNXFGulZ3DGGAPJJOfgwwAW3qEPyjpWg2SLBkmuIU3-c6FxDcmGBEspqPxKFZzTRHXuiCilf-VlDVAEEZzVb4TeP3JNuKnPQi=w1000-rj-sc0xffffffff",
+    "page": "https://store.google.com/us/product/pixel_9a"
+  }
+}

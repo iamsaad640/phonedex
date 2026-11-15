@@ -1,0 +1,74 @@
+{
+  "oppo-find-x10-pro-max": {
+    "url": "https://www.oppo.com/content/dam/oppo_com/common/mkt/v2-2/find-x10-series-en/list-page/find-x10-pro-max/480-600-tai.png",
+    "page": "https://www.oppo.com/en/smartphones/"
+  },
+  "oppo-reno-16-5g": {
+    "url": "https://www.oppo.com/content/dam/oppo_com/common/mkt/v2-2/oppo-reno16-series-en/list-page/reno16/480-600-deep-purple.png",
+    "page": "https://www.oppo.com/en/smartphones/"
+  },
+  "oppo-reno-16-pro-5g": {
+    "url": "https://www.oppo.com/content/dam/oppo_com/common/mkt/v2-2/oppo-reno16-series-en/list-page/reno16-pro/480-600-black.png",
+    "page": "https://www.oppo.com/en/smartphones/"
+  },
+  "oppo-reno-16f-5g": {
+    "url": "https://www.oppo.com/content/dam/oppo_com/common/mkt/v2-2/oppo-reno16-series-en/list-page/reno16-f/480-600-deep-purple.png",
+    "page": "https://www.oppo.com/en/smartphones/"
+  },
+  "oppo-reno-15-pro": {
+    "url": "https://www.oppo.com/content/dam/oppo_com/common/mkt/v2-2/reno15-series-en/list-page/reno15-pro/480-600-brown.png",
+    "page": "https://www.oppo.com/en/smartphones/"
+  },
+  "oppo-reno15": {
+    "url": "https://www.oppo.com/content/dam/oppo_com/common/mkt/v2-2/reno15-series-en/list-page/reno15/480-600-darkblue.png",
+    "page": "https://www.oppo.com/en/smartphones/"
+  },
+  "oppo-find-x9": {
+    "url": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/find-x9-series-en/listpage/find-x9/480-600-black-v2.png",
+    "page": "https://www.oppo.com/en/smartphones/"
+  },
+  "oppo-find-x9-pro": {
+    "url": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/find-x9-series-en/listpage/find-x9-pro/480-600-titanium-v2.png",
+    "page": "https://www.oppo.com/en/smartphones/"
+  },
+  "oneplus-16": {
+    "url": "https://www.oneplus.com/content/dam/oneplus/2026/cn/pokemon/navigation/888-888-white.png",
+    "page": "https://www.oneplus.com/cn"
+  },
+  "oneplus-15r": {
+    "url": "https://www.oneplus.com/content/dam/oneplus/na/2025/nav/Nav15RCharcoalBlack.png",
+    "page": "https://www.oneplus.com/us"
+  },
+  "oneplus-15": {
+    "url": "https://www.oneplus.com/content/dam/oneplus/na/2025/nav/2.png",
+    "page": "https://www.oneplus.com/us"
+  },
+  "oneplus-nord-5": {
+    "url": "https://www.oneplus.com/content/dam/oneplus/2025/nav/Nord5-blue.png",
+    "page": "https://www.oneplus.com/global"
+  },
+  "oneplus-13r": {
+    "url": "https://www.oneplus.com/content/dam/oneplus/2024/nav/13r-Astral.png",
+    "page": "https://www.oneplus.com/global"
+  },
+  "realme-c71": {
+    "url": "https://image01.realme.net/general/20250604/17490071275785a0c1bab66824fd08c88719b2153d0ab.jpg",
+    "page": "https://www.realme.com/global/realme-c71"
+  },
+  "realme-15-pro-5g": {
+    "url": "https://image01.realme.net/general/20250821/1755771054086c24ac4cadc2d42d792b4699f2030d25c.png",
+    "page": "https://www.realme.com/global/realme-15-pro-5g"
+  },
+  "realme-16-5g": {
+    "url": "https://image01.realme.net/general/20260708/17834960735271d8c2f17f748483d88c3c8f42c8e4d24.jpg",
+    "page": "https://www.realme.com/global/realme-16-5g"
+  },
+  "realme-gt-8-pro": {
+    "url": "https://image01.realme.net/general/20251120/176360824981113cfd681d15949cbac0f842ce3a27610.png",
+    "page": "https://www.realme.com/global/realme-gt-8-pro"
+  },
+  "realme-note-70": {
+    "url": "https://image01.realme.net/general/20250820/1755682843839df0ad87d909447fcb6ae80f03c4a9c77.png",
+    "page": "https://www.realme.com/global/realme-note-70"
+  }
+}

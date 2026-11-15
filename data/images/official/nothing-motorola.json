@@ -1,0 +1,22 @@
+{
+  "nothing-phone-4a": {
+    "url": "https://cdn.shopify.com/s/files/1/0376/5420/0459/files/Phone-4a-Blue.png",
+    "page": "https://nothing.tech/products/phone-4a"
+  },
+  "nothing-phone-3": {
+    "url": "https://cdn.shopify.com/s/files/1/0376/5420/0459/files/0000s_0012_Phone-3-black.png",
+    "page": "https://nothing.tech/products/phone-3"
+  },
+  "motorola-signature": {
+    "url": "https://assets.motorola.com/global/zeus_2027/motorola_signature_27_pdp_cmf_device_color1_d_.png",
+    "page": "https://www.motorola.com/us/en/p/phones/signature/motorola-signature/pmipmka46mo"
+  },
+  "motorola-edge-60-pro": {
+    "url": "https://p4-ofp.static.pub//fes/cms/2025/04/23/2lz4cgjlrewrjfsbnrtqc40ufw6owg667173.png",
+    "page": "https://www.motorola.com/we/en/p/phones/motorola-edge/60-pro/pmipmht41mf"
+  },
+  "motorola-razr-60-ultra": {
+    "url": "https://p1-ofp.static.pub//fes/cms/2025/05/03/wz0df66b4po2ejtglretsb6x98ihok169549.png",
+    "page": "https://www.motorola.com/us/en/p/phones/razr/razr-ultra/pmipmhn40ms"
+  }
+}

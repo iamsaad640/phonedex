@@ -1,0 +1,66 @@
+{
+  "infinix-hot-70-pro-5g": {
+    "url": "https://pk.pro.infinixmobility.com/media/catalog/product/b/a/base_thermo_orange_base1_7_1.webp",
+    "page": "https://pk.infinixmobility.com/HOT-70-Pro-5G%2B"
+  },
+  "infinix-hot-70": {
+    "url": "https://west-africa.pro.infinixmobility.com/media/catalog/product/b/a/base_dive_blue_base_1.webp",
+    "page": "https://ng.infinixmobility.com/HOT-70"
+  },
+  "infinix-gt-50-pro": {
+    "url": "https://pk.pro.infinixmobility.com/media/catalog/product/x/6/x6891_gt_50_pro_silver_glacier_base1_2.png",
+    "page": "https://pk.infinixmobility.com/GT-50-Pro"
+  },
+  "infinix-note-60-ultra": {
+    "url": "https://southeast-asia.pro.infinixmobility.com/media/catalog/product/m/o/monzared_01_3.webp",
+    "page": "https://my.infinixmobility.com/NOTE-60-Ultra"
+  },
+  "infinix-note-60": {
+    "url": "https://id.pro.infinixmobility.com/media/catalog/product/h/o/hot60basenew.webp",
+    "page": "https://id.infinixmobility.com/NOTE-60"
+  },
+  "infinix-note-60-pro": {
+    "url": "https://pk.pro.infinixmobility.com/media/catalog/product/b/a/base_1_2.webp",
+    "page": "https://pk.infinixmobility.com/NOTE-60-Pro"
+  },
+  "infinix-note-edge-5g": {
+    "url": "https://pk.pro.infinixmobility.com/media/catalog/product/n/o/note_edge_x6887_silk_green_base1_1.png",
+    "page": "https://pk.infinixmobility.com/NOTE-Edge"
+  },
+  "infinix-hot-60-pro": {
+    "url": "https://west-africa.pro.infinixmobility.com/media/catalog/product/c/o/coral_tides_01.png",
+    "page": "https://ng.infinixmobility.com/HOT-60-Pro"
+  },
+  "infinix-hot-60i": {
+    "url": "https://west-africa.pro.infinixmobility.com/media/catalog/product/m/e/meadowgreen_1_3.png",
+    "page": "https://ng.infinixmobility.com/HOT-60i"
+  },
+  "tecno-spark-50-pro": {
+    "url": "https://d13pvy8xd75yde.cloudfront.net/global/phones/48c34c00f6a656cbbe9945975b50ea0d.png",
+    "page": "https://www.tecno-mobile.com/phones/product-detail/product/spark-50-pro/"
+  },
+  "tecno-spark-50": {
+    "url": "https://d13pvy8xd75yde.cloudfront.net/global/phones/42e8690a1ed96986de7b3fbc9fe161f5.png",
+    "page": "https://www.tecno-mobile.com/phones/product-detail/product/spark-50/"
+  },
+  "tecno-camon-50-ultra": {
+    "url": "https://d13pvy8xd75yde.cloudfront.net/global/phones/1c866659a067929b931ec3f9c8c87f66.webp",
+    "page": "https://www.tecno-mobile.com/phones/product-detail/product/camon-50-ultra-5g/"
+  },
+  "tecno-camon-50": {
+    "url": "https://d13pvy8xd75yde.cloudfront.net/global/phones/3742a2321989fcf66c60917a6350e7e6.webp",
+    "page": "https://www.tecno-mobile.com/phones/product-detail/product/camon-50/"
+  },
+  "tecno-camon-50-pro": {
+    "url": "https://d13pvy8xd75yde.cloudfront.net/global/phones/743fb5865500321a60a07118d870e5b3.webp",
+    "page": "https://www.tecno-mobile.com/phones/product-detail/product/camon-50-pro/"
+  },
+  "tecno-pova-curve-2-5g": {
+    "url": "https://d13pvy8xd75yde.cloudfront.net/global/phones/17063e58fbf56bc4fbf9b2a59f060af1.webp",
+    "page": "https://www.tecno-mobile.com/phones/product-detail/product/pova-curve-2-5g/"
+  },
+  "tecno-spark-40-pro-plus": {
+    "url": "https://d13pvy8xd75yde.cloudfront.net/global/phones/a7e6241f691e7d5c7f33ac2dab138f5f.png",
+    "page": "https://www.tecno-mobile.com/phones/product-detail/product/spark-40-pro-+"
+  }
+}

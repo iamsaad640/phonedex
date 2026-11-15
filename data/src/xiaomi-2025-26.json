@@ -1,0 +1,288 @@
+[
+  {
+    "id": "xiaomi-18-pro-max",
+    "brand": "Xiaomi",
+    "name": "18 Pro Max",
+    "announced": "2026-09-23",
+    "status": "Available",
+    "priceUSD": null,
+    "pricePKR": null,
+    "key": {
+      "displayIn": 6.9, "refreshHz": 120, "chip": "Snapdragon 8 Elite Extreme Gen 6", "ramGB": 12, "storageMinGB": 256,
+      "mainCamMP": 200, "batteryMah": 8500, "chargingW": 100, "weightG": 235, "os": "Android 17, HyperOS 4"
+    },
+    "specs": {
+      "Display": { "Type": "LTPO AMOLED, 68B colors, 2160Hz PWM, Dolby Vision, HDR10+", "Size": "6.9 inches", "Resolution": "1208 x 2624 pixels", "Refresh rate": "Up to 120Hz", "Brightness": "4000 nits (peak)", "Protection": "Xiaomi Dragon Crystal Glass 3", "Cover display": "2.9 inch LTPO AMOLED rear display, 596 x 976 pixels, 120Hz" },
+      "Platform": { "OS": "Android 17, HyperOS 4", "Chipset": "Snapdragon 8 Elite Extreme Gen 6 (2 nm)", "CPU": "Octa-core (2x5.01 GHz + 3x4.03 GHz + 3x3.74 GHz)", "GPU": "Adreno 850" },
+      "Memory": { "RAM": "12GB, 16GB", "Storage": "256GB, 512GB, 1TB (UFS 4.1)", "Card slot": "No" },
+      "Main camera": { "Setup": "Triple, Leica", "Main": "200 MP, f/1.7, 1/1.28\", OIS", "Telephoto": "200 MP, f/2.4, 75mm periscope, 3.2x optical zoom, OIS", "Ultrawide": "50 MP, f/2.4, 102°", "Video": "8K@30fps, 4K@120fps" },
+      "Selfie camera": { "Camera": "50 MP, f/2.2", "Video": "4K@60fps" },
+      "Battery": { "Capacity": "8500 mAh (Si/C)", "Wired": "100W", "Wireless": "50W (27W reverse wireless)" },
+      "Body": { "Dimensions": "163.4 x 77.6 x 8.4 mm", "Weight": "235 g or 240 g (depends on version)", "Build": "Glass front, aluminium frame", "IP rating": "IP68 (up to 6m for 30 min)", "SIM": "Dual Nano-SIM" },
+      "Connectivity": { "Network": "5G", "Wi-Fi": "Wi-Fi 7", "Bluetooth": "6.0", "NFC": "Yes", "USB": "USB Type-C 3.2, DisplayPort" },
+      "Misc": { "Colors": "Black, White, Pink, Red, Blue", "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer, UWB", "Market": "Launched in China on 23 Sep 2026 (12GB+256GB at CNY 6,999); Xiaomi has since confirmed a global launch. Weight listed as 235 g or 240 g by version; the lower figure is used here." }
+    },
+    "sources": ["https://www.gsmarena.com/xiaomi_18_pro_max_5g-14958.php", "https://propakistani.pk/2026/09/23/xiaomi-18-pro-series-arrives-with-specs-that-beat-all-2026-phones/", "https://www.phonearena.com/phones/xiaomi-18-pro-max_id13119"],
+    "verified": "spec-database"
+  },
+  {
+    "id": "xiaomi-17-pro-max",
+    "brand": "Xiaomi",
+    "name": "17 Pro Max",
+    "announced": "2025-09-25",
+    "status": "Available",
+    "priceUSD": null,
+    "pricePKR": null,
+    "key": {
+      "displayIn": 6.9, "refreshHz": 120, "chip": "Snapdragon 8 Elite Gen 5", "ramGB": 12, "storageMinGB": 512,
+      "mainCamMP": 50, "batteryMah": 7500, "chargingW": 100, "weightG": 219, "os": "Android 16, HyperOS 3"
+    },
+    "specs": {
+      "Display": { "Type": "LTPO AMOLED, 68B colors, 2160Hz PWM, Dolby Vision, HDR10+", "Size": "6.9 inches", "Resolution": "1200 x 2608 pixels", "Refresh rate": "Up to 120Hz", "Brightness": "3500 nits (peak)", "Protection": "Xiaomi Dragon Crystal Glass 3", "Cover display": "2.9 inch LTPO AMOLED rear display, 596 x 976 pixels, 120Hz" },
+      "Platform": { "OS": "Android 16, HyperOS 3", "Chipset": "Snapdragon 8 Elite Gen 5 (3 nm)", "CPU": "Octa-core (2x4.6 GHz Oryon V3 + 6x3.62 GHz Oryon V3)", "GPU": "Adreno 840" },
+      "Memory": { "RAM": "12GB, 16GB", "Storage": "512GB, 1TB (UFS 4.1)", "Card slot": "No" },
+      "Main camera": { "Setup": "Triple, Leica", "Main": "50 MP, f/1.7, 1/1.28\", OIS", "Telephoto": "50 MP, f/2.6, 115mm periscope, 5x optical zoom, OIS", "Ultrawide": "50 MP, f/2.4, 102°", "Video": "8K@30fps, 4K@120fps" },
+      "Selfie camera": { "Camera": "50 MP, f/2.2", "Video": "4K@60fps" },
+      "Battery": { "Capacity": "7500 mAh (Si/C)", "Wired": "100W", "Wireless": "50W (22.5W reverse wireless)" },
+      "Body": { "Dimensions": "162.9 x 77.6 x 8 mm", "Weight": "219 g", "Build": "Glass front, aluminium frame", "IP rating": "IP68 (up to 6m for 30 min)", "SIM": "Dual Nano-SIM" },
+      "Connectivity": { "Network": "5G", "Wi-Fi": "Wi-Fi 7", "Bluetooth": "5.4", "NFC": "Yes", "USB": "USB Type-C 3.2, DisplayPort" },
+      "Misc": { "Colors": "Black, White, Purple, Green", "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer, UWB", "Market": "China launch (model 2509FPN0BC); not sold globally." }
+    },
+    "sources": ["https://www.gsmarena.com/xiaomi_17_pro_max_5g-14181.php"],
+    "verified": "spec-database"
+  },
+  {
+    "id": "xiaomi-17",
+    "brand": "Xiaomi",
+    "name": "17",
+    "announced": "2025-09-25",
+    "status": "Available",
+    "priceUSD": null,
+    "pricePKR": 311999,
+    "key": {
+      "displayIn": 6.3, "refreshHz": 120, "chip": "Snapdragon 8 Elite Gen 5", "ramGB": 12, "storageMinGB": 256,
+      "mainCamMP": 50, "batteryMah": 6330, "chargingW": 100, "weightG": 191, "os": "Android 16, HyperOS 3"
+    },
+    "specs": {
+      "Display": { "Type": "LTPO AMOLED, 68B colors, 2160Hz PWM, Dolby Vision, HDR10+", "Size": "6.3 inches", "Resolution": "1220 x 2656 pixels", "Refresh rate": "Up to 120Hz", "Brightness": "3500 nits (peak)", "Protection": "Xiaomi Shield Glass (Global), Dragon Crystal Glass (China)" },
+      "Platform": { "OS": "Android 16, HyperOS 3", "Chipset": "Snapdragon 8 Elite Gen 5 (3 nm)", "CPU": "Octa-core (2x4.6 GHz Oryon V3 + 6x3.62 GHz Oryon V3)", "GPU": "Adreno 840" },
+      "Memory": { "RAM": "12GB, 16GB", "Storage": "256GB, 512GB, 1TB (UFS 4.1)", "Card slot": "No" },
+      "Main camera": { "Setup": "Triple, Leica", "Main": "50 MP, f/1.7, 1/1.31\", OIS", "Telephoto": "50 MP, f/2.0, 60mm, 2.6x optical zoom, OIS", "Ultrawide": "50 MP, f/2.4, 102°", "Video": "8K@30fps, 4K@60fps" },
+      "Selfie camera": { "Camera": "50 MP, f/2.2", "Video": "4K@60fps" },
+      "Battery": { "Capacity": "6330 mAh (global, Si/C)", "Wired": "100W", "Wireless": "50W (22.5W reverse wireless)" },
+      "Body": { "Dimensions": "151.1 x 71.8 x 8.1 mm", "Weight": "191 g", "Build": "Glass front, aluminium frame, glass back", "IP rating": "IP68 (up to 1.5m for 30 min)", "SIM": "Nano-SIM + eSIM (global)" },
+      "Connectivity": { "Network": "5G", "Wi-Fi": "Wi-Fi 7", "Bluetooth": "5.4/6.0", "NFC": "Yes", "USB": "USB Type-C 3.2, DisplayPort" },
+      "Misc": { "Colors": "Black, Venture Green, Alpine Pink, Ice Blue, White", "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer", "Market": "China launch 25 Sep 2025 with a 7000 mAh battery; the global version has 6330 mAh. Specs here follow the global model." }
+    },
+    "sources": ["https://www.gsmarena.com/xiaomi_17_5g-14134.php", "https://priceoye.pk/mobiles/xiaomi/xiaomi-17"],
+    "verified": "spec-database"
+  },
+  {
+    "id": "xiaomi-17t-pro",
+    "brand": "Xiaomi",
+    "name": "17T Pro",
+    "announced": "2026-05-28",
+    "status": "Available",
+    "priceUSD": null,
+    "pricePKR": 269995,
+    "key": {
+      "displayIn": 6.83, "refreshHz": 144, "chip": "Dimensity 9500", "ramGB": 12, "storageMinGB": 256,
+      "mainCamMP": 50, "batteryMah": 7000, "chargingW": 100, "weightG": 219, "os": "Android 16, HyperOS 3"
+    },
+    "specs": {
+      "Display": { "Type": "AMOLED, 68B colors, 3840Hz PWM, Dolby Vision, HDR10+", "Size": "6.83 inches", "Resolution": "1280 x 2772 pixels", "Refresh rate": "Up to 144Hz", "Brightness": "3500 nits (peak)", "Protection": "Corning Gorilla Glass 7i" },
+      "Platform": { "OS": "Android 16, HyperOS 3", "Chipset": "MediaTek Dimensity 9500 (3 nm)", "CPU": "Octa-core (1x4.21 GHz C1-Ultra + 3x3.5 GHz C1-Premium + 4x2.7 GHz C1-Pro)", "GPU": "Arm Mali G1-Ultra MC12" },
+      "Memory": { "RAM": "12GB, 16GB", "Storage": "256GB, 512GB, 1TB (UFS 4.1)", "Card slot": "No" },
+      "Main camera": { "Setup": "Triple, Leica", "Main": "50 MP, f/1.7, 1/1.31\", OIS", "Telephoto": "50 MP, f/3.0, 115mm periscope, 5x optical zoom, OIS", "Ultrawide": "12 MP, f/2.2, 120°", "Video": "8K@30fps, 4K@120fps" },
+      "Selfie camera": { "Camera": "32 MP, f/2.2", "Video": "4K@30fps" },
+      "Battery": { "Capacity": "7000 mAh (Si/C)", "Wired": "100W", "Wireless": "50W (22.5W reverse wired)" },
+      "Body": { "Dimensions": "162.2 x 77.5 x 8.3 mm", "Weight": "219 g", "Build": "Glass front and back (Gorilla Glass 7i), aluminium frame", "IP rating": "IP68", "SIM": "Nano-SIM + eSIM" },
+      "Connectivity": { "Network": "5G", "Wi-Fi": "Wi-Fi 7", "Bluetooth": "6.0", "NFC": "Yes (market dependent)", "USB": "USB Type-C 2.0" },
+      "Misc": { "Colors": "Deep Blue, Deep Violet, Black", "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, IR blaster", "Market": "Global launch (EU price EUR 679.90 per GSMArena); sold in Pakistan." }
+    },
+    "sources": ["https://www.gsmarena.com/xiaomi_17t_pro_5g-14651.php", "https://www.yugatech.com/spec/xiaomi-17t-pro/", "https://priceoye.pk/mobiles/xiaomi/xiaomi-17t-pro"],
+    "verified": "spec-database"
+  },
+  {
+    "id": "xiaomi-17t",
+    "brand": "Xiaomi",
+    "name": "17T",
+    "announced": "2026-05-28",
+    "status": "Available",
+    "priceUSD": null,
+    "pricePKR": 218999,
+    "key": {
+      "displayIn": 6.59, "refreshHz": 120, "chip": "Dimensity 8500 Ultra", "ramGB": 12, "storageMinGB": 256,
+      "mainCamMP": 50, "batteryMah": 6500, "chargingW": 67, "weightG": 200, "os": "Android 16, HyperOS 3"
+    },
+    "specs": {
+      "Display": { "Type": "AMOLED, 68B colors, 3840Hz PWM, Dolby Vision, HDR10+", "Size": "6.59 inches", "Resolution": "1268 x 2756 pixels", "Refresh rate": "Up to 120Hz", "Brightness": "3500 nits (peak)", "Protection": "Corning Gorilla Glass 7i" },
+      "Platform": { "OS": "Android 16, HyperOS 3", "Chipset": "MediaTek Dimensity 8500 Ultra (4 nm)", "CPU": "Octa-core (1x3.4 GHz + 3x3.2 GHz + 4x2.2 GHz Cortex-A725)", "GPU": "Mali-G720 MC8" },
+      "Memory": { "RAM": "12GB", "Storage": "256GB, 512GB (UFS 4.1)", "Card slot": "No" },
+      "Main camera": { "Setup": "Triple, Leica", "Main": "50 MP, f/1.7, 1/1.55\", OIS", "Telephoto": "50 MP, f/3.0, 115mm periscope, 5x optical zoom, OIS", "Ultrawide": "12 MP, f/2.2, 120°", "Video": "4K@60fps" },
+      "Selfie camera": { "Camera": "32 MP, f/2.2", "Video": "4K@30fps" },
+      "Battery": { "Capacity": "6500 mAh (Si/C, global)", "Wired": "67W", "Wireless": "No (22.5W reverse wired)" },
+      "Body": { "Dimensions": "157.6 x 75.2 x 8.2 mm", "Weight": "200 g", "Build": "Glass front (Gorilla Glass 7i), plastic frame, glass-fiber reinforced plastic back", "IP rating": "IP68", "SIM": "Nano-SIM + eSIM" },
+      "Connectivity": { "Network": "5G", "Wi-Fi": "Wi-Fi 6E", "Bluetooth": "6.0", "NFC": "Yes (market dependent)", "USB": "USB Type-C 2.0" },
+      "Misc": { "Colors": "Violet, Blue, Opal White, Black", "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, IR blaster", "Market": "Global launch (EU price EUR 509.99); a 7000 mAh version is China only. Sold in Pakistan." }
+    },
+    "sources": ["https://www.gsmarena.com/xiaomi_17t_5g-14652.php", "https://www.yugatech.com/spec/xiaomi-17t/", "https://priceoye.pk/mobiles/xiaomi/xiaomi-17t"],
+    "verified": "spec-database"
+  },
+  {
+    "id": "xiaomi-15-ultra",
+    "brand": "Xiaomi",
+    "name": "15 Ultra",
+    "announced": "2025-02-27",
+    "status": "Available",
+    "priceUSD": null,
+    "pricePKR": 383999,
+    "key": {
+      "displayIn": 6.73, "refreshHz": 120, "chip": "Snapdragon 8 Elite", "ramGB": 12, "storageMinGB": 256,
+      "mainCamMP": 50, "batteryMah": 5410, "chargingW": 90, "weightG": 226, "os": "Android 15, HyperOS 2"
+    },
+    "specs": {
+      "Display": { "Type": "LTPO AMOLED, 68B colors, 1920Hz PWM, Dolby Vision, HDR10+", "Size": "6.73 inches", "Resolution": "1440 x 3200 pixels", "Refresh rate": "Up to 120Hz", "Brightness": "3200 nits (peak)", "Protection": "Xiaomi Shield Glass 2.0" },
+      "Platform": { "OS": "Android 15, HyperOS 2", "Chipset": "Snapdragon 8 Elite (3 nm)", "CPU": "Octa-core (2x4.32 GHz Oryon V2 + 6x3.53 GHz Oryon V2)", "GPU": "Adreno 830" },
+      "Memory": { "RAM": "12GB, 16GB", "Storage": "256GB, 512GB, 1TB (UFS 4.1)", "Card slot": "No" },
+      "Main camera": { "Setup": "Quad, Leica", "Main": "50 MP, f/1.6, 1-inch type, OIS", "Telephoto": "50 MP, f/1.8, 70mm, 3x optical zoom, OIS", "Telephoto 2": "200 MP, f/2.6, 100mm periscope, 4.3x optical zoom, OIS", "Ultrawide": "50 MP, f/2.2, 115°", "Video": "8K@30fps, 4K@120fps" },
+      "Selfie camera": { "Camera": "32 MP, f/2.0", "Video": "4K@60fps" },
+      "Battery": { "Capacity": "5410 mAh (global, Si/C)", "Wired": "90W", "Wireless": "80W (10W reverse wireless)" },
+      "Body": { "Dimensions": "161.3 x 75.3 x 9.4 mm", "Weight": "226 g (glass-fiber back) or 229 g (eco leather back)", "Build": "Glass front, glass-fiber reinforced plastic or eco leather back, aluminium frame", "IP rating": "IP68", "SIM": "Nano-SIM + eSIM" },
+      "Connectivity": { "Network": "5G", "Wi-Fi": "Wi-Fi 7", "Bluetooth": "6.0", "NFC": "Yes", "USB": "USB Type-C 3.2 Gen 2, DisplayPort" },
+      "Misc": { "Colors": "Black, White, Silver Chrome, Green", "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer", "Market": "China version has a 6000 mAh battery and satellite messaging; global version is 5410 mAh. Specs here follow the global model." }
+    },
+    "sources": ["https://www.gsmarena.com/xiaomi_15_ultra-13657.php", "https://priceoye.pk/mobiles/xiaomi/xiaomi-15-ultra"],
+    "verified": "spec-database"
+  },
+  {
+    "id": "xiaomi-poco-f9-ultra",
+    "brand": "Xiaomi",
+    "name": "POCO F9 Ultra",
+    "announced": "2026-09-01",
+    "status": "Available",
+    "priceUSD": 799,
+    "pricePKR": null,
+    "key": {
+      "displayIn": 6.9, "refreshHz": 185, "chip": "Snapdragon 8 Elite Gen 5", "ramGB": 12, "storageMinGB": 256,
+      "mainCamMP": 200, "batteryMah": 8050, "chargingW": 100, "weightG": 235, "os": "Android 16, HyperOS 3"
+    },
+    "specs": {
+      "Display": { "Type": "AMOLED, 68B colors, Dolby Vision, HDR10+", "Size": "6.9 inches", "Resolution": "1200 x 2608 pixels", "Refresh rate": "Up to 185Hz", "Brightness": "4500 nits (peak), 10000 nits in HDR video", "Protection": "Corning Gorilla Glass 7i" },
+      "Platform": { "OS": "Android 16, HyperOS 3", "Chipset": "Snapdragon 8 Elite Gen 5 (3 nm)", "CPU": "Octa-core (2x4.6 GHz Oryon V3 + 6x3.62 GHz Oryon V3)", "GPU": "Adreno 840" },
+      "Memory": { "RAM": "12GB, 16GB", "Storage": "256GB, 512GB, 1TB (UFS 4.1)", "Card slot": "No" },
+      "Main camera": { "Setup": "Triple", "Main": "200 MP, f/1.7, 1/1.56\", OIS", "Telephoto": "50 MP, f/3.0, 114mm periscope, 5x optical zoom, OIS", "Ultrawide": "50 MP, f/2.4, 102°", "Video": "8K@30fps, 4K@60fps" },
+      "Selfie camera": { "Camera": "32 MP, f/2.2", "Video": "4K@30fps" },
+      "Battery": { "Capacity": "8050 mAh (Si/C)", "Wired": "100W", "Wireless": "50W (27W reverse wired, 22.5W reverse wireless)" },
+      "Body": { "Dimensions": "163.5 x 77.9 x 8.7 mm", "Weight": "235 g", "Build": "Glass front (Gorilla Glass 7i), aluminium frame, glass-fiber reinforced plastic back", "IP rating": "IP68", "SIM": "Nano-SIM + eSIM" },
+      "Connectivity": { "Network": "5G", "Wi-Fi": "Wi-Fi 7", "Bluetooth": "6.0", "NFC": "Yes (market dependent)", "USB": "USB Type-C 3.2" },
+      "Misc": { "Colors": "Black, Dark Cherry", "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass", "Market": "Global launch 1 Sep 2026 from USD 799 (12GB+256GB); tuned by Bose, 2.1 stereo system with woofer. One retailer lists 238 g; GSMArena and most sources say 235 g." }
+    },
+    "sources": ["https://www.gsmarena.com/xiaomi_poco_f9_ultra_5g-14876.php", "https://tech-ish.com/2026/09/01/poco-f9-ultra-is-official-200mp-camera-8050mah-battery-799-starting-price/", "https://engadget.com/2243520/poco-f9-ultra-is-a-midrange-phone-with-a-flagship-processor-and-185hz-display"],
+    "verified": "spec-database"
+  },
+  {
+    "id": "xiaomi-poco-x8-pro",
+    "brand": "Xiaomi",
+    "name": "POCO X8 Pro",
+    "announced": "2026-03-17",
+    "status": "Available",
+    "priceUSD": null,
+    "pricePKR": 175000,
+    "key": {
+      "displayIn": 6.59, "refreshHz": 120, "chip": "Dimensity 8500 Ultra", "ramGB": 8, "storageMinGB": 256,
+      "mainCamMP": 50, "batteryMah": 6500, "chargingW": 100, "weightG": 201.5, "os": "Android 16, HyperOS 3"
+    },
+    "specs": {
+      "Display": { "Type": "AMOLED, 12-bit, 68B colors, 3840Hz PWM, Dolby Vision, HDR10+", "Size": "6.59 inches", "Resolution": "1268 x 2756 pixels", "Refresh rate": "Up to 120Hz", "Brightness": "3500 nits (peak), 2000 nits (HBM)", "Protection": "Corning Gorilla Glass 7i" },
+      "Platform": { "OS": "Android 16, HyperOS 3", "Chipset": "MediaTek Dimensity 8500 Ultra (4 nm)", "CPU": "Octa-core, up to 3.4 GHz", "GPU": "Mali-G720 MC8" },
+      "Memory": { "RAM": "8GB, 12GB (LPDDR5X)", "Storage": "256GB, 512GB (UFS 4.1)", "Card slot": "No" },
+      "Main camera": { "Setup": "Dual", "Main": "50 MP, f/1.5, 1/1.95\", Sony IMX882, OIS", "Ultrawide": "8 MP, f/2.2", "Video": "4K@60fps" },
+      "Selfie camera": { "Camera": "20 MP", "Video": "1080p@60fps" },
+      "Battery": { "Capacity": "6500 mAh (typ)", "Wired": "100W", "Wireless": "No (27W reverse wired)" },
+      "Body": { "Dimensions": "157.5 x 75.2 x 8.4 mm", "Weight": "201.5 g", "Build": null, "IP rating": "IP68", "SIM": "Dual SIM" },
+      "Connectivity": { "Network": "5G", "Wi-Fi": "Wi-Fi 6", "Bluetooth": "6.0", "NFC": "Yes (market dependent)", "USB": "USB Type-C" },
+      "Misc": { "Colors": "Black, Mint Green, White, Yellow", "Sensors": null, "Market": "Global launch 17 Mar 2026. Xiaomi's global spec page lists 6500 mAh (typ); some pre-launch reports cited 7560 mAh, which matches the China Redmi Turbo 5 and is not used here." }
+    },
+    "sources": ["https://www.mi.com/global/product/poco-x8-pro/specs/", "https://www.smartprix.com/bytes/exclusive-poco-x8-pro-series-global-launch-set-for-march-17/", "https://priceoye.pk/mobiles/xiaomi/xiaomi-poco-x8-pro"],
+    "verified": "official"
+  },
+  {
+    "id": "xiaomi-redmi-note-15-pro-5g",
+    "brand": "Xiaomi",
+    "name": "Redmi Note 15 Pro 5G",
+    "announced": "2025-12-18",
+    "status": "Available",
+    "priceUSD": null,
+    "pricePKR": 91499,
+    "key": {
+      "displayIn": 6.83, "refreshHz": 120, "chip": "Dimensity 7400 Ultra", "ramGB": 8, "storageMinGB": 256,
+      "mainCamMP": 200, "batteryMah": 6580, "chargingW": 45, "weightG": 210, "os": "Android 15, HyperOS 2"
+    },
+    "specs": {
+      "Display": { "Type": "AMOLED, 12-bit, 3840Hz PWM, Dolby Vision, HDR10+", "Size": "6.83 inches", "Resolution": "1280 x 2772 pixels", "Refresh rate": "Up to 120Hz", "Brightness": "3200 nits (peak), 1800 nits (HBM)", "Protection": "Corning Gorilla Glass Victus 2" },
+      "Platform": { "OS": "Android 15, HyperOS 2", "Chipset": "MediaTek Dimensity 7400 Ultra (4 nm)", "CPU": "Octa-core, up to 2.6 GHz", "GPU": "Mali-G615" },
+      "Memory": { "RAM": "8GB, 12GB (LPDDR4X)", "Storage": "256GB, 512GB (UFS 2.2)", "Card slot": "No" },
+      "Main camera": { "Setup": "Dual", "Main": "200 MP, f/1.7, 1/1.4\", OIS", "Ultrawide": "8 MP, f/2.2", "Video": "4K@30fps" },
+      "Selfie camera": { "Camera": "20 MP, f/2.2", "Video": "1080p@60fps" },
+      "Battery": { "Capacity": "6580 mAh (typ)", "Wired": "45W", "Wireless": "No" },
+      "Body": { "Dimensions": "163.6 x 78.1 x 8.0 mm", "Weight": "210 g", "Build": null, "IP rating": "IP66, IP68, IP69, IP69K", "SIM": "Dual SIM" },
+      "Connectivity": { "Network": "5G", "Wi-Fi": "Wi-Fi 6", "Bluetooth": "5.4", "NFC": "Yes (market dependent)", "USB": "USB Type-C" },
+      "Misc": { "Colors": "Black, Glacier Blue, Titanium, Mist Purple", "Sensors": null, "Market": "Global model. The China-market Redmi Note 15 Pro (Aug 2025) has a 7000 mAh battery and 50 MP main camera; those figures are not used here." }
+    },
+    "sources": ["https://www.mi.com/global/product/redmi-note-15-pro-5g/specs/", "https://gadgets.beebom.com/news/redmi-note-15-pro-5g-series-launched-globally", "https://priceoye.pk/mobiles/xiaomi/xiaomi-redmi-note-15-pro"],
+    "verified": "official"
+  },
+  {
+    "id": "xiaomi-redmi-note-14-4g",
+    "brand": "Xiaomi",
+    "name": "Redmi Note 14 4G",
+    "announced": "2025-01-10",
+    "status": "Available",
+    "priceUSD": null,
+    "pricePKR": 61999,
+    "key": {
+      "displayIn": 6.67, "refreshHz": 120, "chip": "Helio G99 Ultra", "ramGB": 6, "storageMinGB": 128,
+      "mainCamMP": 108, "batteryMah": 5500, "chargingW": 33, "weightG": 200, "os": "Android 14, HyperOS"
+    },
+    "specs": {
+      "Display": { "Type": "AMOLED, 960Hz PWM dimming", "Size": "6.67 inches", "Resolution": "1080 x 2400 pixels", "Refresh rate": "Up to 120Hz", "Brightness": "1800 nits (peak), 1200 nits (HBM)", "Protection": "Corning Gorilla Glass 5" },
+      "Platform": { "OS": "Android 14, HyperOS", "Chipset": "MediaTek Helio G99 Ultra (6 nm)", "CPU": "Octa-core, up to 2.2 GHz", "GPU": "Mali-G57 MC2" },
+      "Memory": { "RAM": "6GB, 8GB (LPDDR4X)", "Storage": "128GB, 256GB (UFS 2.2)", "Card slot": "microSD, up to 1TB (shared SIM slot)" },
+      "Main camera": { "Setup": "Triple", "Main": "108 MP, f/1.7, 1/1.67\"", "Depth": "2 MP, f/2.4", "Macro": "2 MP, f/2.4", "Video": "1080p@60fps" },
+      "Selfie camera": { "Camera": "20 MP, f/2.2", "Video": "1080p@30fps" },
+      "Battery": { "Capacity": "5500 mAh (typ)", "Wired": "33W", "Wireless": "No" },
+      "Body": { "Dimensions": "164.8 x 78.2 x 8.2 mm", "Weight": "200 g", "Build": null, "IP rating": "IP54", "SIM": "Dual SIM (hybrid slot)" },
+      "Connectivity": { "Network": "4G", "Wi-Fi": "Wi-Fi 5 (802.11ac)", "Bluetooth": "5.3", "NFC": "Yes (market dependent)", "USB": "USB Type-C" },
+      "Misc": { "Colors": "Lime Green, Midnight Black, Ocean Blue, Mist Purple", "Sensors": "Fingerprint (under display), proximity, compass", "Market": "Global 4G model sold in Pakistan (not the 5G Redmi Note 14). Xiaomi lists 200 g; one Pakistani spec site lists 196.5 g, the manufacturer figure is used. PriceOye may show a higher-storage variant than the 6GB+128GB base." }
+    },
+    "sources": ["https://www.mi.com/uk/product/redmi-note-14/specs/", "https://propakistani.pk/price/xiaomi-redmi-note-14-4g/", "https://priceoye.pk/mobiles/xiaomi/xiaomi-redmi-note-14"],
+    "verified": "official"
+  },
+  {
+    "id": "xiaomi-redmi-15",
+    "brand": "Xiaomi",
+    "name": "Redmi 15",
+    "announced": "2025-08-01",
+    "status": "Available",
+    "priceUSD": null,
+    "pricePKR": 56995,
+    "key": {
+      "displayIn": 6.9, "refreshHz": 144, "chip": "Snapdragon 685", "ramGB": 6, "storageMinGB": 128,
+      "mainCamMP": 50, "batteryMah": 7000, "chargingW": 33, "weightG": 214, "os": "Android 15, HyperOS 2"
+    },
+    "specs": {
+      "Display": { "Type": "IPS LCD (DotDisplay)", "Size": "6.9 inches", "Resolution": "1080 x 2340 pixels", "Refresh rate": "Up to 144Hz", "Brightness": "700 nits (typ), 850 nits (HBM)", "Protection": null },
+      "Platform": { "OS": "Android 15, HyperOS 2", "Chipset": "Snapdragon 685 (6 nm)", "CPU": "Octa-core, up to 2.8 GHz", "GPU": "Adreno" },
+      "Memory": { "RAM": "6GB, 8GB (LPDDR4X)", "Storage": "128GB, 256GB (UFS 2.2)", "Card slot": "microSD, up to 2TB (hybrid slot)" },
+      "Main camera": { "Setup": "Single (+ auxiliary lens)", "Main": "50 MP, f/1.8", "Video": "1080p@30fps" },
+      "Selfie camera": { "Camera": "8 MP, f/2.0", "Video": "1080p@30fps" },
+      "Battery": { "Capacity": "7000 mAh (typ)", "Wired": "33W (no charger in box)", "Wireless": "No" },
+      "Body": { "Dimensions": "169.5 x 80.5 x 8.4 mm", "Weight": "214 g", "Build": null, "IP rating": "IP64", "SIM": "Dual SIM (hybrid slot)" },
+      "Connectivity": { "Network": "4G", "Wi-Fi": "Wi-Fi 5 (802.11ac)", "Bluetooth": "5.0", "NFC": "Yes (market dependent)", "USB": "USB Type-C" },
+      "Misc": { "Colors": "Sandy Purple, Titan Gray, Midnight Black", "Sensors": "Fingerprint (side-mounted)", "Market": "This is the 4G Redmi 15. A separate Redmi 15 5G exists with a different chipset. Launch date is the August 2025 European release; PriceOye does not state whether its Redmi 15 listing is the 4G or 5G model." }
+    },
+    "sources": ["https://www.mi.com/global/product/redmi-15/specs/", "https://gadgets.beebom.com/mobile/redmi-15-4g", "https://priceoye.pk/mobiles/xiaomi/xiaomi-redmi-15"],
+    "verified": "official"
+  }
+]

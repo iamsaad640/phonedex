@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>PhoneDex — Phone Specs, Prices & Comparisons</title>
+  <meta name="description" content="Verified smartphone specifications, Pakistan retail prices, side-by-side comparisons and an AI buying assistant. Founded by M. Sufyan Mughal.">
+  <meta name="theme-color" content="#05070d">
+  <meta name="color-scheme" content="dark">
+  <!-- Crawlers need absolute URLs: prefix og:image / twitter:image with the live domain once deployed. -->
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="PhoneDex">
+  <meta property="og:title" content="PhoneDex — Phone Specs, Prices & Comparisons">
+  <meta property="og:description" content="Specs, Pakistan retail prices and side-by-side comparisons for the latest smartphones.">
+  <meta property="og:image" content="/img/og.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="PhoneDex — Phone Specs, Prices & Comparisons">
+  <meta name="twitter:description" content="Specs, Pakistan retail prices and side-by-side comparisons for the latest smartphones.">
+  <meta name="twitter:image" content="/img/og.jpg">
+  <link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='9' fill='%23070a12'/%3E%3Crect x='1' y='1' width='30' height='30' rx='8' fill='none' stroke='%233be8ff' stroke-opacity='.6'/%3E%3Ctext x='16' y='21' font-family='Menlo,monospace' font-weight='700' font-size='13' text-anchor='middle' fill='%233be8ff'%3EPD%3C/text%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Geist:wght@300;400;500;600;700;800&family=Geist+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <div class="aurora" aria-hidden="true">
+    <span class="blob b1"></span><span class="blob b2"></span><span class="blob b3"></span>
+  </div>
+
+  <a class="skip-link" href="#app">Skip to content</a>
+
+  <header class="topbar glass" id="topbar">
+    <div class="topbar-row">
+      <a href="#/" class="logo" aria-label="PhoneDex home"><span class="logo-mark">PD</span><span class="logo-text">Phone<b>Dex</b></span></a>
+      <nav class="nav" id="nav" aria-label="Main"></nav>
+      <div class="topbar-actions">
+        <div class="segmented" role="group" aria-label="Currency">
+          <button data-currency="PKR">PKR</button>
+          <button data-currency="USD">USD</button>
+        </div>
+        <a href="#/liked" class="icon-btn" id="likedLink" aria-label="Liked phones"></a>
+      </div>
+    </div>
+    <form class="topsearch" id="topSearch" role="search" autocomplete="off">
+      <svg class="i" viewBox="0 0 24 24" aria-hidden="true"><path d="M11 4a7 7 0 1 0 0 14 7 7 0 0 0 0-14zM20 20l-4-4"/></svg>
+      <input id="topSearchInput" type="search" placeholder="Search 100+ phones, brands or chips…" aria-label="Search phones"
+        role="combobox" aria-expanded="false" aria-controls="topSuggest" aria-autocomplete="list">
+      <kbd>/</kbd>
+      <button type="submit" class="ts-btn">Search</button>
+      <div class="topsuggest" id="topSuggest" role="listbox" hidden></div>
+    </form>
+  </header>
+
+  <main id="app" class="wrap" tabindex="-1">
+    <div class="boot">
+      <div class="skeleton hero-skel"></div>
+      <div class="skel-row"><div class="skeleton"></div><div class="skeleton"></div><div class="skeleton"></div></div>
+    </div>
+  </main>
+
+  <footer class="footer wrap">
+    <div class="footer-inner glass">
+      <div>
+        <a href="#/" class="logo"><span class="logo-mark">PD</span><span class="logo-text">Phone<b>Dex</b></span></a>
+        <p>Specs come from manufacturer spec sheets where available, otherwise from established spec databases. Every phone page lists its sources.</p>
+      </div>
+      <nav class="footer-links" aria-label="Footer">
+        <a href="#/phones">All phones</a>
+        <a href="#/brands">Brands</a>
+        <a href="#/rankings">Top charts</a>
+        <a href="#/prices">Prices</a>
+        <a href="#/compare">Compare</a>
+        <a href="#/support">Support</a>
+        <a href="#/founder">Founder</a>
+        <a href="#/liked">Liked</a>
+      </nav>
+      <p class="fine"><span>PKR = Pakistan retail price on the date shown · USD = official launch price · <span id="dataStamp"></span></span><a href="#/founder">Founded by <b>M. Sufyan Mughal</b></a></p>
+    </div>
+  </footer>
+
+  <nav class="dock glass" id="dock" aria-label="Quick navigation"></nav>
+  <div class="compare-bar glass" id="compareBar" hidden></div>
+  <div class="toasts" id="toasts" aria-live="polite"></div>
+
+  <button class="chat-fab" id="chatFab" aria-label="Open PhoneDex Assistant" aria-expanded="false" aria-controls="chatPanel"></button>
+  <section class="chat-panel glass" id="chatPanel" role="dialog" aria-label="PhoneDex Assistant" hidden></section>
+
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>

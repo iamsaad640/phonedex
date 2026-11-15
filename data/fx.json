@@ -1,0 +1,5 @@
+{
+  "date": "2026-11-08",
+  "source": "https://open.er-api.com/v6/latest/USD",
+  "pkrPer": { "USD": 276.58, "CNY": 41.34, "EUR": 308.75, "GBP": 370.02, "INR": 2.94 }
+}

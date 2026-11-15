@@ -3,4 +3,5 @@ data/images/.cache/
 .env
 .env.*
 .omc/
+.playwright-mcp/
 .DS_Store

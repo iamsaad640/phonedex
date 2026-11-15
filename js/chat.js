@@ -120,7 +120,7 @@ function setStatus() {
 async function ensureMode() {
   if (mode !== 'unknown') return;
   try {
-    const res = await fetch('/api/health', { cache: 'no-store' });
+    const res = await fetch('api/health', { cache: 'no-store' });
     const data = res.ok ? await res.json() : null;
     mode = data?.ai ? 'ai' : 'local';
   } catch {
@@ -139,7 +139,7 @@ function historyForServer() {
 async function streamAI(el) {
   controller = new AbortController();
   const phoneId = location.hash.startsWith('#/phone/') ? decodeURIComponent(location.hash.slice(8).split('?')[0]) : undefined;
-  const res = await fetch('/api/chat', {
+  const res = await fetch('api/chat', {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({ messages: historyForServer(), context: { phoneId } }),

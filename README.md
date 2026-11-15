@@ -8,6 +8,8 @@ The UI is a dark-only "midnight glass" design:
 - scroll-reveal motion
 - a card-to-detail image morph using the View Transitions API
 
+**Live:** https://iamsaad640.github.io/phonedex/ (GitHub Pages, deployed from `main`). Pages serves static files only, so the assistant there runs on the built-in instant answers; run `server.mjs` with an API key for the Claude-powered version.
+
 ## Run
 
 ```bash

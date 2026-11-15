@@ -45,11 +45,13 @@ const LOGO_COLORS = {
   realme: '#ffc915',
 };
 export const hasLogo = (brand) => brand in LOGOS;
+// Absolute so the url() inside the CSS variable resolves the same everywhere, including under a sub-path like GitHub Pages.
+const LOGO_BASE = new URL('img/brands/', document.baseURI).href;
 export function brandMark(brand, cls = '') {
   const file = LOGOS[brand];
   if (!file) return '';
   const color = LOGO_COLORS[brand] ? `;--logo-color:${LOGO_COLORS[brand]}` : '';
-  return `<span class="bmark ${WORDMARKS.has(brand) ? 'wide' : ''} ${cls}" style="--logo:url('/img/brands/${file}')${color}" aria-hidden="true"></span>`;
+  return `<span class="bmark ${WORDMARKS.has(brand) ? 'wide' : ''} ${cls}" style="--logo:url('${LOGO_BASE}${file}')${color}" aria-hidden="true"></span>`;
 }
 // Logo + name; for wordmark logos the logo already spells the name, so the text is kept for screen readers only.
 export function brandLabel(brand) {
